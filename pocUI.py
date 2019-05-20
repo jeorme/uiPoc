@@ -6,8 +6,9 @@
 #    May 20, 2019 06:37:46 AM CEST  platform: Windows NT
 
 import sys
-from backend import price
+from backend import getTrade, price
 from functools import partial
+
 
 try:
     import Tkinter as tk
@@ -118,7 +119,11 @@ class Toplevel1:
         self.output.configure(width=194)
         self.output.configure(wrap="word")
 
-        self.price = tk.Button(top, command=partial(price, self.tradeIdEntry, self.output))
+        self.tradeIdCombo = ttk.Combobox(top)  # 3
+        self.tradeIdCombo.place(relx=0.121, rely=0.144, height=24, relwidth=0.19)
+        self.tradeIdCombo['values'] = getTrade("fxo")
+
+        self.price = tk.Button(top, command=partial(price, self.tradeIdCombo, self.output))
         self.price.place(relx=0.475, rely=0.029, height=53, width=106)
         self.price.configure(activebackground="#ececec")
         self.price.configure(activeforeground="#000000")

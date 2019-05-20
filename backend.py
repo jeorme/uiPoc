@@ -1,5 +1,6 @@
 from tkinter import *
 from API import *
+from ApiHelper import *
 
 configName="DEFAULT"
 pricingMethod="THEORETICAL"
@@ -29,3 +30,15 @@ def price(tradeEntry,output):
         output.insert(END,"Please enter an ID")
     else:
         output.insert(END,result[id]["scenarios"][0]["entries"][0]["measures"])
+
+def getTrade(instrumentType):
+    url = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    if instrumentType=="fxo":
+        url = url+"fx-option"
+    else:
+        url = url + "fx-swap"
+    trades = get(url)
+    output = []
+    for trade in trades:
+        output.append(trade["id"])
+    return tuple(output)
