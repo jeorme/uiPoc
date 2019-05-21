@@ -88,23 +88,6 @@ class Toplevel1:
                 foreground="#000000",
                 label="marketData")
 
-        self.tradeIdLabel = tk.Label(top)
-        self.tradeIdLabel.place(relx=0.019, rely=0.029, height=56, width=92)
-        self.tradeIdLabel.configure(background="#d9d9d9")
-        self.tradeIdLabel.configure(disabledforeground="#a3a3a3")
-        self.tradeIdLabel.configure(foreground="#000000")
-        self.tradeIdLabel.configure(text='''trade ID''')
-        self.tradeIdLabel.configure(width=92)
-
-        self.tradeIdEntry = tk.Entry(top)
-        self.tradeIdEntry.place(relx=0.121, rely=0.044, height=24, relwidth=0.19)
-
-        self.tradeIdEntry.configure(background="white")
-        self.tradeIdEntry.configure(disabledforeground="#a3a3a3")
-        self.tradeIdEntry.configure(font=font10)
-        self.tradeIdEntry.configure(foreground="#000000")
-        self.tradeIdEntry.configure(insertbackground="black")
-
         self.output = tk.Text(top)
         self.output.place(relx=0.699, rely=0.015, relheight=0.182
                 , relwidth=0.181)
@@ -119,9 +102,22 @@ class Toplevel1:
         self.output.configure(width=194)
         self.output.configure(wrap="word")
 
+        self.tradeIdLabel = tk.Label(top)
+        self.tradeIdLabel.place(relx=0.019, rely=0.144, height=56, width=92)
+        self.tradeIdLabel.configure(background="#d9d9d9")
+        self.tradeIdLabel.configure(disabledforeground="#a3a3a3")
+        self.tradeIdLabel.configure(foreground="#000000")
+        self.tradeIdLabel.configure(text='''trade ID''')
+        self.tradeIdLabel.configure(width=92)
+
+        self.tradeTypeCombo = ttk.Combobox(top,state="readonly")  # 3
+        self.tradeTypeCombo.place(relx=0.121, rely=0.044, height=24, relwidth=0.19)
+        self.tradeTypeCombo['values'] = ["FXO VANILLA","FX SPOT","FX FORWARD","FX SWAP"]
+
         self.tradeIdCombo = ttk.Combobox(top)  # 3
         self.tradeIdCombo.place(relx=0.121, rely=0.144, height=24, relwidth=0.19)
-        self.tradeIdCombo['values'] = getTrade("fxo")
+        self.tradeIdCombo['values'] = getTrade(self.tradeTypeCombo.get())
+        self.tradeTypeCombo.bind("<ComboboxSelected>", self.getTradeId())
 
         self.price = tk.Button(top, command=partial(price, self.tradeIdCombo, self.output))
         self.price.place(relx=0.475, rely=0.029, height=53, width=106)
@@ -135,6 +131,10 @@ class Toplevel1:
         self.price.configure(pady="0")
         self.price.configure(text='''price''')
         self.price.configure(width=106)
+
+    def getTradeId(self):
+        self.tradeIdCombo["values"] = getTrade(self.tradeTypeCombo.get())
+        print("isCalled")
 
 if __name__ == '__main__':
     vp_start_gui()

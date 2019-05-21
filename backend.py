@@ -33,10 +33,16 @@ def price(tradeEntry,output):
 
 def getTrade(instrumentType):
     url = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
-    if instrumentType=="fxo":
+    if instrumentType=="FXO VANILLA":
         url = url+"fx-option"
-    else:
+    elif instrumentType== "FX SPOT" :
+        url = url + "fx-spot"
+    elif instrumentType== "FX SWAP" :
         url = url + "fx-swap"
+    elif instrumentType== "FX FORWARD" :
+        url = url + "fx-forward"
+    else:
+        return tuple()
     trades = get(url)
     output = []
     for trade in trades:
