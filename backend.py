@@ -1,6 +1,7 @@
 from tkinter import *
 from API import *
 from ApiHelper import *
+import json
 
 configName="DEFAULT"
 pricingMethod="THEORETICAL"
@@ -41,6 +42,8 @@ def getTrade(instrumentType):
         url = url + "fx-swap"
     elif instrumentType== "FX FORWARD" :
         url = url + "fx-forward"
+    elif instrumentType== "SWAP" :
+        url = url + "ir-swap"
     else:
         return tuple()
     trades = get(url)
@@ -48,3 +51,24 @@ def getTrade(instrumentType):
     for trade in trades:
         output.append(trade["id"])
     return tuple(output)
+
+def pushTrade(tradePath, type, output):
+    url_push  = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    if type == "SWAP":
+        url_push = url_push+ "ir-swap"
+    elif type == "FX SPOT":
+        url_push = url_push + "fx-spot"
+    elif type == "FX FORWARD":
+        url_push = url_push + "fx-forward"
+    elif type == "FX SWAP":
+        url_push = url_push+"fx-swap"
+    else:
+        print("error instrument not defined")
+    path = "C:/Users/jerom/PycharmProjects/uiPoc/"
+    name = path+tradePath.get(1.0,END).replace("\n","")
+    with open(name+".json", "r") as write_file:
+        data = json.load(write_file)
+        write_file.close()
+    val = post(url_push,data)
+    output.insert(END,val)
+
