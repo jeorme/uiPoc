@@ -78,7 +78,7 @@ def pushTrade(tradePath, typePath, output):
         url_push = url_push+"fx-swap"
     else:
         print("error instrument not defined")
-    path = "C:/Users/jerpetit/PycharmProjects/uiPoc/"
+    path = "C:/Users/jerom/PycharmProjects/uiPoc/"
     name = path+tradePath.get(1.0,END).replace("\n","")
     with open(name+".json", "r") as write_file:
         data = json.load(write_file)
