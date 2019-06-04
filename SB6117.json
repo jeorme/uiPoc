@@ -1,10 +1,10 @@
-
 {
     "description": {
         "currency": "EUR",
         "payingLeg": {
             "currency": "EUR",
-            "customFlows": [],
+            "customFlows": [
+            ],
             "notionalCalculation": {
                 "amortizationCalculation": null,
                 "currency": "EUR",
@@ -12,25 +12,28 @@
                 "fxFixingSchedule": null,
                 "indexation": null,
                 "notional": 1000000,
-                "notionalStructure": {},
+                "notionalStructure": {
+                },
                 "paymentSchedule": {
-                            "anniversaryDay": 0,
-                            "businessCenters": [
-                                "WADC"
-                            ],
-                            "businessDayConvention": "MODFOLLOWING",
-                            "frequency": "3M",
-                            "gap": "2BD",
-                            "generationMethod": "FORWARD",
-                            "isAdjusted": true,
-                            "isAdvance": false
-                        },
+                    "anniversaryDay": 0,
+                    "businessCenters": [
+                        "WEEKEND_ONLY"
+                    ],
+                    "businessDayConvention": "modfollowing",
+                    "gap": "2BD",
+                    "generationMethod": "backward",
+                    "isAdjusted": true,
+                    "stubCalculation": null
+                },
                 "redemption": null
             },
             "rateCalculation": {
-                "customFixedRateSchedules": [],
-                "customFloatingRateSchedules": [],
-                "fixedRateCalculations": [],
+                "customFixedRateSchedules": [
+                ],
+                "customFloatingRateSchedules": [
+                ],
+                "fixedRateCalculations": [
+                ],
                 "floatingRateCalculations": [
                     {
                         "basis": "ACT/360",
@@ -40,7 +43,7 @@
                         "fixingSchedule": {
                             "anniversaryDay": 0,
                             "businessCenters": [
-                                "EURO_CITY"
+                                "WEEKEND_ONLY"
                             ],
                             "businessDayConvention": "MODFOLLOWING",
                             "cutOff": null,
@@ -50,24 +53,25 @@
                             "isAdvance": true,
                             "useInterestPeriodForFwdRateDates": true
                         },
-                        "floatingRate": "FCP_EUR3M",
+                        "floatingRate": "EUR3M",
                         "floor": null,
                         "fxFixingSchedule": null,
                         "margins": {
                             "additiveMargin": 0,
-                            "additiveMarginStructure": {},
+                            "additiveMarginStructure": {
+                            },
                             "clientMargin": 0,
                             "multiplicativeMargin": 1
                         },
                         "paymentSchedule": {
                             "anniversaryDay": 0,
                             "businessCenters": [
-                                "EMUU"
+                                "WEEKEND_ONLY"
                             ],
                             "businessDayConvention": "MODFOLLOWING",
                             "frequency": "3M",
                             "gap": "2BD",
-                            "generationMethod": "FORWARD",
+                            "generationMethod": "BACKWARD",
                             "isAdjusted": true,
                             "isAdvance": false
                         },
@@ -85,43 +89,48 @@
                     }
                 ]
             },
-            "scheduleModifications": []
+            "scheduleModifications": [
+            ]
         },
         "receivingLeg": {
             "currency": "USD",
-            "customFlows": [],
+            "customFlows": [
+            ],
             "notionalCalculation": {
                 "amortizationCalculation": null,
                 "currency": "USD",
                 "exchange": "BOTH",
                 "fxFixingSchedule": {
                     "businessCenters": [
-                        "NYC"
+                        "WEEKEND_ONLY"
                     ],
                     "businessDayConvention": "NONE",
                     "gap": "2BD"
                 },
                 "indexation": null,
                 "notional": 1143200,
-                "notionalStructure": {},
-                "paymentSchedule": {
-                            "anniversaryDay": 0,
-                            "businessCenters": [
-                                "WADC"
-                            ],
-                            "businessDayConvention": "MODFOLLOWING",
-                            "frequency": "3M",
-                            "gap": "2BD",
-                            "generationMethod": "FORWARD",
-                            "isAdjusted": true,
-                            "isAdvance": false
-                        },
+                "notionalStructure": {
+                },
+                "paymentSchedule":  {
+                    "anniversaryDay": 0,
+                    "businessCenters": [
+                        "WEEKEND_ONLY"
+                    ],
+                    "businessDayConvention": "modfollowing",
+                    "gap": "2BD",
+                    "generationMethod": "backward",
+                    "isAdjusted": true,
+                    "stubCalculation": null
+                },
                 "redemption": null
             },
             "rateCalculation": {
-                "customFixedRateSchedules": [],
-                "customFloatingRateSchedules": [],
-                "fixedRateCalculations": [],
+                "customFixedRateSchedules": [
+                ],
+                "customFloatingRateSchedules": [
+                ],
+                "fixedRateCalculations": [
+                ],
                 "floatingRateCalculations": [
                     {
                         "basis": "ACT/360",
@@ -131,7 +140,7 @@
                         "fixingSchedule": {
                             "anniversaryDay": 0,
                             "businessCenters": [
-                                "NYC"
+                                "WEEKEND_ONLY"
                             ],
                             "businessDayConvention": "MODFOLLOWING",
                             "cutOff": null,
@@ -141,30 +150,31 @@
                             "isAdvance": true,
                             "useInterestPeriodForFwdRateDates": true
                         },
-                        "floatingRate": "FCP_USD3M",
+                        "floatingRate": "USD3M",
                         "floor": null,
                         "fxFixingSchedule": {
                             "businessCenters": [
-                                "NYC"
+                                "WEEKEND_ONLY"
                             ],
                             "businessDayConvention": "NONE",
                             "gap": "2BD"
                         },
                         "margins": {
                             "additiveMargin": -0.0033,
-                            "additiveMarginStructure": {},
+                            "additiveMarginStructure": {
+                            },
                             "clientMargin": 0,
                             "multiplicativeMargin": 1
                         },
                         "paymentSchedule": {
                             "anniversaryDay": 0,
                             "businessCenters": [
-                                "WADC"
+                                "WEEKEND_ONLY"
                             ],
                             "businessDayConvention": "MODFOLLOWING",
                             "frequency": "3M",
                             "gap": "2BD",
-                            "generationMethod": "FORWARD",
+                            "generationMethod": "BACKWARD",
                             "isAdjusted": true,
                             "isAdvance": false
                         },
@@ -182,24 +192,22 @@
                     }
                 ]
             },
-            "scheduleModifications": []
+            "scheduleModifications": [
+            ]
         }
     },
     "info": {
-        "businessUnit0": "COMMON",
-        "businessUnit1": "COMMON",
-        "businessUnit2": "FCP_FQP",
-        "businessUnit3": "FCP_FQP",
-        "businessUnit4": "FCP_IRS",
-        "collateralCurrency": null,
-        "counterparty": null,
-        "csa": null,
-        "group": "CIRS",
-        "id": "Kplus1/SwapDeals/6117",
-        "subType": "Cross Currency IRS",
-        "tradeDate": "2016-07-04",
-        "trader": "KPLUS",
-        "type": "IR Swap"
+                "businessUnit0": "Europe",
+        "businessUnit1": "Paris",
+        "businessUnit2": "Paris IRD",
+        "businessUnit3": "Paris Swaps",
+        "businessUnit4": "Paris IRS",
+        "collateralCurrency": "EUR",
+        "counterparty": "Bank Of America Corp",
+        "csa": "ISDA",
+        "group": "CIRS_DC",
+        "id": "TEST12",
+        "market": null,
+        "trader": "IR Europe Trader"
     }
 }
-

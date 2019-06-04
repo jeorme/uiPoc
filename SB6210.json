@@ -83,7 +83,7 @@
               "gap": "-2BD",
               "isAdjusted": true,
               "isAdvance": true,
-              "useInterestPeriodForFwdRateDates": true
+              "useInterestPeriodForFwdRateDates": false
             },
             "floatingRate": "EUR6M",
             "fxFixingSchedule": null,
@@ -125,7 +125,7 @@
     "group": "IRS",
     "subType": "IRS (Fixed/Float)",
     "tradeDate": "2016-07-04",
-    "id": "SB6210",
+    "id": "SB6210Bis",
     "type": "IR Swap"
   }
 }

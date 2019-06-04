@@ -6,7 +6,7 @@
 #    May 20, 2019 06:37:46 AM CEST  platform: Windows NT
 
 import sys
-from backend import getTrade, price,pushTrade
+from backend import getTrade, price,pushTrade, priceBatch
 from functools import partial
 
 
@@ -152,7 +152,7 @@ class Toplevel1:
         self.tradePath.configure(width=194)
         self.tradePath.configure(wrap="word")
 
-        self.push = tk.Button(top, command=partial(pushTrade, self.tradePath, self.PathTypeCombo.get(),self.output))
+        self.push = tk.Button(top, command=partial(pushTrade, self.tradePath, self.PathTypeCombo,self.output))
         self.push.place(relx=0.475, rely=0.129, height=53, width=106)
         self.push.configure(activebackground="#ececec")
         self.push.configure(activeforeground="#000000")
@@ -164,6 +164,19 @@ class Toplevel1:
         self.push.configure(pady="0")
         self.push.configure(text='''push''')
         self.push.configure(width=106)
+
+        self.batch = tk.Button(top, command=priceBatch)
+        self.batch.place(relx=0.475, rely=0.229, height=53, width=106)
+        self.batch.configure(activebackground="#ececec")
+        self.batch.configure(activeforeground="#000000")
+        self.batch.configure(background="#d9d9d9")
+        self.batch.configure(disabledforeground="#a3a3a3")
+        self.batch.configure(foreground="#000000")
+        self.batch.configure(highlightbackground="#d9d9d9")
+        self.batch.configure(highlightcolor="black")
+        self.batch.configure(pady="0")
+        self.batch.configure(text='''price bash''')
+        self.batch.configure(width=106)
 
     def getTradeId(self,event):
         self.tradeIdCombo["values"] = getTrade(self.tradeTypeCombo.get())
