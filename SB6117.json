@@ -1,0 +1,205 @@
+
+{
+    "description": {
+        "currency": "EUR",
+        "payingLeg": {
+            "currency": "EUR",
+            "customFlows": [],
+            "notionalCalculation": {
+                "amortizationCalculation": null,
+                "currency": "EUR",
+                "exchange": "BOTH",
+                "fxFixingSchedule": null,
+                "indexation": null,
+                "notional": 1000000,
+                "notionalStructure": {},
+                "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WADC"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "frequency": "3M",
+                            "gap": "2BD",
+                            "generationMethod": "FORWARD",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                "redemption": null
+            },
+            "rateCalculation": {
+                "customFixedRateSchedules": [],
+                "customFloatingRateSchedules": [],
+                "fixedRateCalculations": [],
+                "floatingRateCalculations": [
+                    {
+                        "basis": "ACT/360",
+                        "cap": null,
+                        "compoundingCalculation": null,
+                        "endDate": "2024-05-06",
+                        "fixingSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "EURO_CITY"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "cutOff": null,
+                            "frequency": "3M",
+                            "gap": "-2BD",
+                            "isAdjusted": true,
+                            "isAdvance": true,
+                            "useInterestPeriodForFwdRateDates": true
+                        },
+                        "floatingRate": "FCP_EUR3M",
+                        "floor": null,
+                        "fxFixingSchedule": null,
+                        "margins": {
+                            "additiveMargin": 0,
+                            "additiveMarginStructure": {},
+                            "clientMargin": 0,
+                            "multiplicativeMargin": 1
+                        },
+                        "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "EMUU"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "frequency": "3M",
+                            "gap": "2BD",
+                            "generationMethod": "FORWARD",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                        "startDate": "2016-05-05",
+                        "stubCalculation": {
+                            "end": {
+                                "date": null,
+                                "fixingFloatingRates": null,
+                                "forwardFloatingRates": null,
+                                "type": "SHORT",
+                                "useBrokenPeriodForFwdRateDates": true
+                            },
+                            "start": null
+                        }
+                    }
+                ]
+            },
+            "scheduleModifications": []
+        },
+        "receivingLeg": {
+            "currency": "USD",
+            "customFlows": [],
+            "notionalCalculation": {
+                "amortizationCalculation": null,
+                "currency": "USD",
+                "exchange": "BOTH",
+                "fxFixingSchedule": {
+                    "businessCenters": [
+                        "NYC"
+                    ],
+                    "businessDayConvention": "NONE",
+                    "gap": "2BD"
+                },
+                "indexation": null,
+                "notional": 1143200,
+                "notionalStructure": {},
+                "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WADC"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "frequency": "3M",
+                            "gap": "2BD",
+                            "generationMethod": "FORWARD",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                "redemption": null
+            },
+            "rateCalculation": {
+                "customFixedRateSchedules": [],
+                "customFloatingRateSchedules": [],
+                "fixedRateCalculations": [],
+                "floatingRateCalculations": [
+                    {
+                        "basis": "ACT/360",
+                        "cap": null,
+                        "compoundingCalculation": null,
+                        "endDate": "2024-05-06",
+                        "fixingSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "NYC"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "cutOff": null,
+                            "frequency": "3M",
+                            "gap": "-2BD",
+                            "isAdjusted": true,
+                            "isAdvance": true,
+                            "useInterestPeriodForFwdRateDates": true
+                        },
+                        "floatingRate": "FCP_USD3M",
+                        "floor": null,
+                        "fxFixingSchedule": {
+                            "businessCenters": [
+                                "NYC"
+                            ],
+                            "businessDayConvention": "NONE",
+                            "gap": "2BD"
+                        },
+                        "margins": {
+                            "additiveMargin": -0.0033,
+                            "additiveMarginStructure": {},
+                            "clientMargin": 0,
+                            "multiplicativeMargin": 1
+                        },
+                        "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WADC"
+                            ],
+                            "businessDayConvention": "MODFOLLOWING",
+                            "frequency": "3M",
+                            "gap": "2BD",
+                            "generationMethod": "FORWARD",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                        "startDate": "2016-05-05",
+                        "stubCalculation": {
+                            "end": {
+                                "date": null,
+                                "fixingFloatingRates": null,
+                                "forwardFloatingRates": null,
+                                "type": "SHORT",
+                                "useBrokenPeriodForFwdRateDates": true
+                            },
+                            "start": null
+                        }
+                    }
+                ]
+            },
+            "scheduleModifications": []
+        }
+    },
+    "info": {
+        "businessUnit0": "COMMON",
+        "businessUnit1": "COMMON",
+        "businessUnit2": "FCP_FQP",
+        "businessUnit3": "FCP_FQP",
+        "businessUnit4": "FCP_IRS",
+        "collateralCurrency": null,
+        "counterparty": null,
+        "csa": null,
+        "group": "CIRS",
+        "id": "Kplus1/SwapDeals/6117",
+        "subType": "Cross Currency IRS",
+        "tradeDate": "2016-07-04",
+        "trader": "KPLUS",
+        "type": "IR Swap"
+    }
+}
+
