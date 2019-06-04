@@ -1,0 +1,152 @@
+{
+ "info": {
+    "id": "TEST15",
+    "group": "IRS",
+    "counterparty": "BNP Paribas",
+    "businessUnit0": "Europe",
+    "businessUnit1": "Paris",
+    "businessUnit2": "Paris IRD",
+    "businessUnit3": "Paris Swaps",
+    "businessUnit4": "Paris IRS",
+    "trader": "IR Europe Trader",
+    "collateralCurrency": "JPY",
+    "csa": "ISDA",
+    "market": null
+  },
+  "description": {
+    "payingLeg": {
+      "rateCalculation": {
+        "fixedRateCalculations": [
+          {
+            "basis": "ACT/360",
+            "fxFixingSchedule": null,
+            "startDate": "2015-01-30",
+            "endDate": "2025-01-30",
+            "margins": {
+              "additiveMargin": 0.0,
+              "additiveMarginStructure": {},
+              "multiplicativeMargin": 1.0,
+              "clientMargin": 0.0
+            },
+            "stubCalculation": {
+              "end": {
+                "date": null,
+                "type": "SHORT"
+              },
+              "start": {
+                "date": null,
+                "type": "NONE"
+              }
+            },
+            "paymentSchedule": {
+              "businessDayConvention": "MODFOLLOWING",
+              "gap": "2BD",
+              "isAdjusted": true,
+              "anniversaryDay": 0,
+              "generationMethod": "FORWARD",
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "isAdvance": false,
+              "frequency": "1Y"
+            },
+            "rateStructure": {},
+            "rate": 0.0354
+          }
+        ],
+        "floatingRateCalculations": [],
+        "customFixedRateSchedules": [],
+        "customFloatingRateSchedules": []
+      },
+      "notionalCalculation": {
+        "notional": 1000000.0,
+        "fxFixingSchedule": null,
+        "redemption": null,
+        "exchange": "NEITHER",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": {},
+        "indexation": null,
+        "currency": "EUR"
+      },
+      "customFlows": [],
+      "scheduleModifications": [],
+      "currency": "EUR"
+    },
+    "receivingLeg": {
+      "rateCalculation": {
+        "fixedRateCalculations": [],
+        "floatingRateCalculations": [
+          {
+            "basis": "ACT/360",
+            "fxFixingSchedule": null,
+            "startDate": "2015-01-30",
+            "endDate": "2025-01-30",
+            "margins": {
+              "additiveMargin": 0.0,
+              "additiveMarginStructure": {},
+              "multiplicativeMargin": 1.0,
+              "clientMargin": 0.0
+            },
+            "stubCalculation": {
+              "end": {
+                "useBrokenPeriodForFwdRateDates": true,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null,
+                "date": null,
+                "type": "SHORT"
+              },
+              "start": null
+            },
+            "paymentSchedule": {
+              "businessDayConvention": "MODFOLLOWING",
+              "gap": "2BD",
+              "isAdjusted": true,
+              "anniversaryDay": 0,
+              "generationMethod": "FORWARD",
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "isAdvance": false,
+              "frequency": "6M"
+            },
+            "floatingRate": "EUR6M",
+            "fixingSchedule": {
+              "useInterestPeriodForFwdRateDates": false,
+              "businessDayConvention": "MODFOLLOWING",
+              "gap": "-2BD",
+              "cutOff": null,
+              "isAdjusted": true,
+              "anniversaryDay": 0,
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "isAdvance": false,
+              "frequency": "6M"
+            },
+            "compoundingCalculation": null,
+            "cap": null,
+            "floor": null
+          }
+        ],
+        "customFixedRateSchedules": [],
+        "customFloatingRateSchedules": []
+      },
+      "notionalCalculation": {
+        "notional": 1000000.0,
+        "fxFixingSchedule": null,
+        "redemption": null,
+        "exchange": "NEITHER",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": {},
+        "indexation": null,
+        "currency": "EUR"
+      },
+      "customFlows": [],
+      "scheduleModifications": [],
+      "currency": "EUR"
+    },
+    "currency": "EUR"
+  }
+}
