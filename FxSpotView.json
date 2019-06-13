@@ -1,0 +1,326 @@
+[
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 10000000,
+      "domesticCurrency": "JPY",
+      "foreignAmount": 89023.41,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5900",
+      "subType": "",
+      "tradeDate": "2016-07-05",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "USD",
+      "foreignAmount": 848608.28,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5901",
+      "subType": "",
+      "tradeDate": "2016-07-05",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "USD",
+      "foreignAmount": 819067.9,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5902",
+      "subType": "",
+      "tradeDate": "2016-07-04",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "GBP",
+      "foreignAmount": 1140771.16,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5903",
+      "subType": "",
+      "tradeDate": "2016-07-05",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 10000000,
+      "domesticCurrency": "JPY",
+      "foreignAmount": 90285.3,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5905",
+      "subType": "",
+      "tradeDate": "2016-07-04",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "USD",
+      "foreignAmount": 887862.91,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5906",
+      "subType": "",
+      "tradeDate": "2016-07-01",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "USD",
+      "foreignAmount": 908265.21,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-04",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5907",
+      "subType": "",
+      "tradeDate": "2016-06-30",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "CNY",
+      "foreignAmount": 147860.49,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5908",
+      "subType": "",
+      "tradeDate": "2016-07-04",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "CAD",
+      "foreignAmount": 804246.42,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-07-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5909",
+      "subType": "",
+      "tradeDate": "2016-07-04",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "CAD",
+      "foreignAmount": 804893.75,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5910",
+      "subType": "",
+      "tradeDate": "2016-07-05",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "GBP",
+      "foreignAmount": 1129177.96,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5911",
+      "subType": "",
+      "tradeDate": "2016-07-04",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1000000,
+      "domesticCurrency": "CNY",
+      "foreignAmount": 147860.49,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": "D_REGION",
+      "businessUnit1": "D_ENTITY",
+      "businessUnit2": "MODEL-BRAN",
+      "businessUnit3": "MODEL-PORT",
+      "businessUnit4": "MODEL-FOLD",
+      "collateralCurrency": null,
+      "counterparty": "MODEL-CPTY",
+      "csa": null,
+      "group": "SPOT",
+      "id": "Kplus1/SpotDeals/5912",
+      "subType": "",
+      "tradeDate": "2016-07-05",
+      "trader": "KPLUS",
+      "type": "FX Spot"
+    }
+  }
+]
