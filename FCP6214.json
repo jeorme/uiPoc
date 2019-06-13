@@ -1,0 +1,154 @@
+{
+  "info": {
+    "id": "IRS_Vanilla_04",
+    "group": "IRS",
+    "counterparty": "BPCE",
+    "businessUnit0": "Europe",
+    "businessUnit1": "Paris",
+    "businessUnit2": "Paris IRD",
+    "businessUnit3": "Paris Swaps",
+    "businessUnit4": "Paris IRS",
+    "trader": "IR Europe Trader",
+    "collateralCurrency": "USD",
+    "csa": "ISDA",
+    "market": null
+  },
+  "description": {
+    "payingLeg": {
+      "currency": "EUR",
+      "rateCalculation": {
+        "fixedRateCalculations": [
+          {
+            "currency": null,
+            "basis": "ACT/360",
+            "startDate": "2013-09-05",
+            "endDate": "2023-09-05",
+            "paymentSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "businessDayConvention": "modfollowing",
+              "anniversaryDay": 0,
+              "gap": "0BD",
+              "generationMethod": "backward",
+              "isAdvance": false,
+              "frequency": "1Y"
+            },
+            "margins": {
+              "additiveMargin": 0,
+              "multiplicativeMargin": 1,
+              "clientMargin": 0,
+              "additiveMarginStructure": null
+            },
+            "fxFixingSchedule": null,
+            "rate": 0.012,
+            "rateStructure": null,
+            "stubCalculation": {
+              "start": {
+                "type": "short",
+                "date": null
+              },
+              "end": {
+                "type": "none",
+                "date": null
+              }
+            }
+          }
+        ],
+        "floatingRateCalculations": [],
+        "customFixedRateSchedules": [],
+        "customFloatingRateSchedules": []
+      },
+      "notionalCalculation": {
+        "notional": 1000000,
+        "exchange": "neither",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": null,
+        "fxFixingSchedule": null,
+        "indexation": null
+      },
+      "customFlows": null,
+      "scheduleModifications": []
+    },
+    "receivingLeg": {
+      "currency": "EUR",
+      "rateCalculation": {
+        "fixedRateCalculations": [],
+        "floatingRateCalculations": [
+          {
+            "currency": null,
+            "basis": "ACT/360",
+            "startDate": "2013-09-05",
+            "endDate": "2023-09-05",
+            "paymentSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "businessDayConvention": "modfollowing",
+              "anniversaryDay": 0,
+              "gap": "0BD",
+              "generationMethod": "backward",
+              "isAdvance": false,
+              "frequency": "6M"
+            },
+            "margins": {
+              "additiveMargin": 0.002,
+              "multiplicativeMargin": 1,
+              "clientMargin": 0,
+              "additiveMarginStructure": null
+            },
+            "fxFixingSchedule": null,
+            "floatingRate": "EUR6M",
+            "fixingSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "WEEKEND_ONLY"
+              ],
+              "businessDayConvention": "modfollowing",
+              "anniversaryDay": 0,
+              "gap": "-2BD",
+              "isAdvance": true,
+              "frequency": "6M",
+              "useInterestPeriodForFwdRateDates": true,
+              "cutOff": null
+            },
+            "compoundingCalculation": null,
+            "stubCalculation": {
+              "start": {
+                "type": "short",
+                "date": null,
+                "useBrokenPeriodForFwdRateDates": true,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null
+              },
+              "end": {
+                "type": "none",
+                "date": null,
+                "useBrokenPeriodForFwdRateDates": true,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null
+              }
+            }
+          }
+        ],
+        "customFixedRateSchedules": [],
+        "customFloatingRateSchedules": []
+      },
+      "notionalCalculation": {
+        "notional": 1000000,
+        "exchange": "neither",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": null,
+        "fxFixingSchedule": null,
+        "indexation": null
+      },
+      "customFlows": null,
+      "scheduleModifications": []
+    },
+    "currency": "EUR"
+  }
+}

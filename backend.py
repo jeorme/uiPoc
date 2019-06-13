@@ -16,12 +16,11 @@ resultHandlerConfigId=None
 resultHandlerId="Collector"
 
 
-notPresent = ['Kplus1/SwapDeals/6219','Kplus1/SwapDeals/6220','Kplus1/SwapDeals/6228',
-              'Kplus1/SwapDeals/6229','Kplus1/SwapDeals/6231','Kplus1/SwapDeals/6232',
-              'Kplus1/SwapDeals/6237','Kplus1/SwapDeals/6270','Kplus1/SwapDeals/6271',
-              'Kplus1/SwapDeals/6272','Kplus1/SwapDeals/6273','Kplus1/SwapDeals/6274',
-              'Kplus1/SwapDeals/6275','Kplus1/SwapDeals/6276','Kplus1/SwapDeals/6277',
-              'Kplus1/SwapDeals/6204','Kplus1/SwapDeals/6206','Kplus1/SwapDeals/6354']
+notPresent = ['KSwapDeals/6224','KSwapDeals/6228',
+              'KSwapDeals/6232','KSwapDeals/6167','KSwapDeals/6185','KSwapDeals/6268',
+
+              'KSwapDeals/6275','KSwapDeals/6276','KSwapDeals/6277',
+              'KSwapDeals/6204','KSwapDeals/6206']
 
 scenarioContexts =[
 
@@ -86,21 +85,36 @@ def pushTrade(tradePath, typePath, output):
     val = post(url_push,data)
     output.insert(END,val)
 
-def priceBatch():
-    df = pd.read_excel("dictionnaryIRS.xlsx")
+def priceBatch(tradePath,typePath,output):
+    type = typePath.get()
+    dict = "dictionnary"
+    if type == "SWAP":
+        dict = dict+"IRS.xlsx"
+    elif type == "FX SPOT":
+        dict = dict + "fx-spot.xlsx"
+    elif type == "FX FORWARD":
+        dict = dict + "fx-forward.xlsx"
+    elif type == "FX SWAP":
+        dict = dict + "fx-swap.xlsx"
+    elif type == "FXO VANILLA":
+        dict = dict + "fx-option.xlsx"
+    else:
+        print("error instrument not defined")
+    df = pd.read_excel(dict)
     fcp_Trade = df["FCP"].values
-    SB_trade =df["Kenibo427"].apply(lambda x : np.nan  if x is np.nan else "Kplus1/SwapDeals/"+str(x).replace(".0","")).values
+    SB_trade =df["kenobi427"].values
     df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
-    push_batch()
+    push_batch(tradePath,typePath,output)
     df["SB_trade"] = priceArray(SB_trade,"SB trade ")
-    df.to_excel("output.xlsx",engine="xlsxwriter")
-    print("np written in the files")
+    df["DIF"] = df["SB_trade"] - df["FCP_VAL"]
+    df.to_excel("output"+type.replace(" ","_")+".xlsx",engine="xlsxwriter")
+    print("written in the files")
     return None
 
 def priceArray(vector,label):
     val = []
     for id in vector:
-        if id is np.nan or id == "Kplus1/SwapDeals/nan" or id in notPresent:
+        if id is np.nan or id == "KSwapDeals/nan" or id in notPresent:
             val.append(np.nan)
         else:
             perimeter = {"trade": {"ids": [id]}}
@@ -110,10 +124,28 @@ def priceArray(vector,label):
             print(label + id + " has been priced")
     return val
 
-def push_batch():
-    url = "https://fr1pslcmf05:8770/api/pricing/store/trade/ir-swap/batch"
+def push_batch(tradePath,typePath,output):
+    url_push = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    type = typePath.get()
+    if type == "SWAP":
+        url_push = url_push + "ir-swap/batch"
+    elif type == "FX SPOT":
+        url_push = url_push + "fx-spot/batch"
+    elif type == "FX FORWARD":
+        url_push = url_push + "fx-forward/batch"
+    elif type == "FX SWAP":
+        url_push = url_push + "fx-swap/batch"
+    elif type == "FXO VANILLA":
+        url_push = url_push + "fx-option/batch"
+    else:
+        print("error instrument not defined")
+    path = "C:/Users/jerom/PycharmProjects/uiPoc/"
+    name = path + tradePath.get(1.0, END).replace("\n", "")
+    with open(name + ".json", "r") as write_file:
+        data = json.load(write_file)
+        write_file.close()
     with open("IFcpIRSView.json", "r") as write_file:
         data = json.load(write_file)
         write_file.close()
-    val = post(url, data)
-    return None
+    val = post(url_push, data)
+    output.insert(END, val)

@@ -1,0 +1,157 @@
+{
+    "info": {
+      "businessUnit0": "Europe",
+      "subType": "OIS Swap",
+      "counterparty": null,
+     "businessUnit1": "Paris",
+      "businessUnit2": "Paris IRD",
+      "businessUnit3": "Paris Swaps",
+      "businessUnit4": "Paris IRS",
+      "csa": null,
+      "collateralCurrency": null,
+      "tradeDate": "2016-07-04",
+      "trader": null,
+      "group": "IRS",
+      "id": "6226V4",
+      "type": "IR Swap"
+    },
+    "description": {
+      "payingLeg": {
+        "rateCalculation": {
+          "fixedRateCalculations": [
+            {
+              "basis": "ACT/365.FIXED",
+              "fxFixingSchedule": null,
+              "startDate": "2016-07-06",
+              "endDate": "2086-07-08",
+              "margins": {
+                "additiveMargin": 0.0,
+                "additiveMarginStructure": {},
+                "multiplicativeMargin": 1.0,
+                "clientMargin": 0.0
+              },
+              "stubCalculation": {
+                "end": {
+                  "date": null,
+                  "type": "SHORT"
+                },
+                "start": {
+                  "date": null,
+                  "type": "NONE"
+                }
+              },
+              "paymentSchedule": {
+                "businessDayConvention": "modfollowing",
+                "gap": "0BD",
+                "isAdjusted": true,
+                "anniversaryDay": 0,
+                "generationMethod": "FORWARD",
+                "businessCenters": [
+                  "WEEKEND_ONLY"
+                ],
+                "isAdvance": false,
+                "frequency": "1Y"
+              },
+              "rateStructure": {},
+              "rate": 0.004
+            }
+          ],
+          "floatingRateCalculations": [],
+          "customFixedRateSchedules": [],
+          "customFloatingRateSchedules": []
+        },
+        "notionalCalculation": {
+          "notional": 1000000.0,
+          "fxFixingSchedule": null,
+          "redemption": null,
+          "exchange": "NEITHER",
+          "amortizationCalculation": null,
+          "paymentSchedule": null,
+          "notionalStructure": {},
+          "indexation": null,
+          "currency": "GBP"
+        },
+        "customFlows": [],
+        "scheduleModifications": [],
+        "currency": "GBP"
+      },
+      "receivingLeg": {
+        "rateCalculation": {
+          "fixedRateCalculations": [],
+          "floatingRateCalculations": [
+            {
+              "basis": "ACT/365.FIXED",
+              "fxFixingSchedule": null,
+              "startDate": "2016-07-06",
+              "endDate": "2086-07-08",
+              "margins": {
+                "additiveMargin": 0.0,
+                "additiveMarginStructure": {},
+                "multiplicativeMargin": 1.0,
+                "clientMargin": 0.0
+              },
+              "stubCalculation": {
+                "end": {
+                  "useBrokenPeriodForFwdRateDates": true,
+                  "fixingFloatingRates": null,
+                  "forwardFloatingRates": null,
+                  "date": null,
+                  "type": "SHORT"
+                },
+                "start": null
+              },
+              "paymentSchedule": {
+                "businessDayConvention": "modfollowing",
+                "gap": "0BD",
+                "isAdjusted": true,
+                "anniversaryDay": 0,
+                "generationMethod": "FORWARD",
+                "businessCenters": [
+                  "WEEKEND_ONLY"
+                ],
+                "isAdvance": false,
+                "frequency": "1Y"
+              },
+              "floatingRate": "SONIA",
+              "fixingSchedule": {
+                "useInterestPeriodForFwdRateDates": true,
+                "businessDayConvention": "modfollowing",
+                "gap": "0BD",
+                "cutOff": null,
+                "isAdjusted": true,
+                "anniversaryDay": 0,
+                "businessCenters": [
+                  "WEEKEND_ONLY"
+                ],
+                "isAdvance": true,
+                "frequency": "1BD"
+              },
+              "compoundingCalculation": {
+                "frequency": "1BD",
+                "method": "compoundingWithSpreadExcluded"
+              },
+              "cap": null,
+              "floor": null
+            }
+          ],
+          "customFixedRateSchedules": [],
+          "customFloatingRateSchedules": []
+        },
+        "notionalCalculation": {
+          "notional": 1000000.0,
+          "fxFixingSchedule": null,
+          "redemption": null,
+          "exchange": "NEITHER",
+          "amortizationCalculation": null,
+          "paymentSchedule": null,
+          "notionalStructure": {},
+          "indexation": null,
+          "currency": "GBP"
+        },
+        "customFlows": [],
+        "scheduleModifications": [],
+        "currency": "GBP"
+      },
+      "currency": "GBP"
+    }
+  }
