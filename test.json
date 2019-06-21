@@ -1,0 +1,28 @@
+ {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 10000000,
+      "domesticCurrency": "JPY",
+      "foreignAmount": 89023.41,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/SpotDeals/5900V3",
+      "subType": "",
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "type": "FX Spot"
+    }
+  }

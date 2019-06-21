@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Kplus1/YC/UDISBMTV",
+    "name": "UDISBMTV"
+  },
+  {
+    "id": "Kplus1/YC/GBPOISV",
+    "name": "GBPOISV"
+  },
+  {
+    "id": "Kplus1/YC/MXNOISV",
+    "name": "MXNOISV"
+  },
+  {
+    "id": "Kplus1/YC/CLPGOVV",
+    "name": "CLPGOVV"
+  },
+  {
+    "id": "Kplus1/YC/JPYXUSDV",
+    "name": "JPYXUSDV"
+  },
+  {
+    "id": "Kplus1/YC/JPYOISV",
+    "name": "JPYOISV"
+  },
+  {
+    "id": "Kplus1/YC/HKDDISCV",
+    "name": "HKDDISCV"
+  },
+  {
+    "id": "Kplus1/YC/CHFOISV",
+    "name": "CHFOISV"
+  },
+  {
+    "id": "Kplus1/YC/CAD-LIBORV",
+    "name": "CAD-LIBORV"
+  },
+  {
+    "id": "Kplus1/YC/CNYCNNDSV",
+    "name": "CNYCNNDSV"
+  },
+  {
+    "id": "Kplus1/YC/EUROISV",
+    "name": "EUROISV"
+  },
+  {
+    "id": "Kplus1/YC/USDOISV",
+    "name": "USDOISV"
+  },
+  {
+    "id": "Kplus1/YC/EURABSEV",
+    "name": "EURABSEV"
+  },
+  {
+    "id": "Kplus1/YC/USDOISV",
+    "name": "USDOISV"
+  },
+  {
+    "id": "Kplus1/YC/USDSBQLV",
+    "name": "USDSBQLV"
+  },
+  {
+    "id": "Kplus1/YC/USDSBMLV",
+    "name": "USDSBMLV"
+  },
+  {
+    "id": "Kplus1/YC/USDSBSLV",
+    "name": "USDSBSLV"
+  },
+  {
+    "id": "Kplus1/YC/USDSBQLV",
+    "name": "USDSBQLV"
+  },
+  {
+    "id": "Kplus1/YC/EURAMMEV",
+    "name": "EURAMMEV"
+  },
+  {
+    "id": "Kplus1/YC/EURABQEV",
+    "name": "EURABQEV"
+  },
+  {
+    "id": "Kplus1/YC/JPYSBQLV",
+    "name": "JPYSBQLV"
+  },
+  {
+    "id": "Kplus1/YC/GBPSBQLV",
+    "name": "GBPSBQLV"
+  },
+  {
+    "id": "Kplus1/YC/JPYSBSLV",
+    "name": "JPYSBSLV"
+  },
+  {
+    "id": "Kplus1/YC/GBPSBSLV",
+    "name": "GBPSBSLV"
+  },
+  {
+    "id": "Kplus1/YC/CHFAMQLV",
+    "name": "CHFAMQLV"
+  },
+  {
+    "id": "Kplus1/YC/CHFABSLV",
+    "name": "CHFABSLV"
+  }
+]

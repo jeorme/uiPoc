@@ -165,7 +165,7 @@ class Toplevel1:
         self.push.configure(text='''push''')
         self.push.configure(width=106)
 
-        self.batch = tk.Button(top, partial(priceBatch, self.tradePath, self.PathTypeCombo,self.output))
+        self.batch = tk.Button(top, command=partial(priceBatch, self.tradePath, self.PathTypeCombo,self.output))
         self.batch.place(relx=0.475, rely=0.229, height=53, width=106)
         self.batch.configure(activebackground="#ececec")
         self.batch.configure(activeforeground="#000000")

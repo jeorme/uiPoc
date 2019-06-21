@@ -1,7 +1,7 @@
 import json
 import os
 if __name__=="__main__":
-    path = "C:\\Users\\jerom\\PycharmProjects\\uiPoc\\fxspot\\"
+    path = "C:\\Users\\jerom\\PycharmProjects\\uiPoc\\fxforward\\"
     data_list=[]
     for filename in os.listdir(path):
         with open(path+filename,"r") as write_file:
@@ -9,5 +9,5 @@ if __name__=="__main__":
             write_file.close()
         data_list.append(data)
 
-    with open("FxSpotView.json","w") as file:
+    with open("FxFwdView.json","w") as file:
         json.dump(data_list,file)

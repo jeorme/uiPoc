@@ -20,7 +20,12 @@ notPresent = ['KSwapDeals/6224','KSwapDeals/6228',
               'KSwapDeals/6232','KSwapDeals/6167','KSwapDeals/6185','KSwapDeals/6268',
 
               'KSwapDeals/6275','KSwapDeals/6276','KSwapDeals/6277',
-              'KSwapDeals/6204','KSwapDeals/6206']
+              'KSwapDeals/6204','KSwapDeals/6206'
+                ,"FxForward_10",	"Kplus1/ForwardDeals/1364","FxForward_06",	"Kplus1/ForwardDeals/1363","FxForward_07",	"Kplus1/ForwardDeals/1358","FxForward_11",	"Kplus1/ForwardDeals/1369"
+
+
+
+              ]
 
 scenarioContexts =[
 
@@ -45,7 +50,7 @@ def price(tradeEntry,output):
         output.insert(END,result[id]["scenarios"][0]["entries"][0]["measures"])
 
 def getTrade(instrumentType):
-    url = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    url = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
     if instrumentType=="FXO VANILLA":
         url = url+"fx-option"
     elif instrumentType== "FX SPOT" :
@@ -65,7 +70,7 @@ def getTrade(instrumentType):
     return tuple(output)
 
 def pushTrade(tradePath, typePath, output):
-    url_push  = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    url_push  = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
     type = typePath.get()
     if type == "SWAP":
         url_push = url_push+ "ir-swap"
@@ -100,14 +105,14 @@ def priceBatch(tradePath,typePath,output):
         dict = dict + "fx-option.xlsx"
     else:
         print("error instrument not defined")
-    df = pd.read_excel(dict)
-    fcp_Trade = df["FCP"].values
-    SB_trade =df["kenobi427"].values
-    df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
+    #df = pd.read_excel(dict)
+    #fcp_Trade = df["FCP"].values
+    #SB_trade =df["kenobi427"].values
+    #df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
     push_batch(tradePath,typePath,output)
-    df["SB_trade"] = priceArray(SB_trade,"SB trade ")
-    df["DIF"] = df["SB_trade"] - df["FCP_VAL"]
-    df.to_excel("output"+type.replace(" ","_")+".xlsx",engine="xlsxwriter")
+    #df["SB_trade"] = priceArray(SB_trade,"SB trade ")
+    #df["DIF"] = df["SB_trade"] - df["FCP_VAL"]
+    #df.to_excel("output"+type.replace(" ","_")+".xlsx",engine="xlsxwriter")
     print("written in the files")
     return None
 
@@ -125,7 +130,7 @@ def priceArray(vector,label):
     return val
 
 def push_batch(tradePath,typePath,output):
-    url_push = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
+    url_push = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
     type = typePath.get()
     if type == "SWAP":
         url_push = url_push + "ir-swap/batch"
@@ -144,8 +149,6 @@ def push_batch(tradePath,typePath,output):
     with open(name + ".json", "r") as write_file:
         data = json.load(write_file)
         write_file.close()
-    with open("IFcpIRSView.json", "r") as write_file:
-        data = json.load(write_file)
-        write_file.close()
     val = post(url_push, data)
+    output.delete(1.0, END)
     output.insert(END, val)
