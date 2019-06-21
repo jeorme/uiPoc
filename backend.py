@@ -50,7 +50,7 @@ def price(tradeEntry,output):
         output.insert(END,result[id]["scenarios"][0]["entries"][0]["measures"])
 
 def getTrade(instrumentType):
-    url = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
+    url = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
     if instrumentType=="FXO VANILLA":
         url = url+"fx-option"
     elif instrumentType== "FX SPOT" :
@@ -70,7 +70,7 @@ def getTrade(instrumentType):
     return tuple(output)
 
 def pushTrade(tradePath, typePath, output):
-    url_push  = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
+    url_push  = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
     type = typePath.get()
     if type == "SWAP":
         url_push = url_push+ "ir-swap"
@@ -105,14 +105,14 @@ def priceBatch(tradePath,typePath,output):
         dict = dict + "fx-option.xlsx"
     else:
         print("error instrument not defined")
-    #df = pd.read_excel(dict)
-    #fcp_Trade = df["FCP"].values
-    #SB_trade =df["kenobi427"].values
-    #df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
+    df = pd.read_excel(dict)
+    fcp_Trade = df["FCP"].values
+    SB_trade =df["kenobi427"].values
+    df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
     push_batch(tradePath,typePath,output)
-    #df["SB_trade"] = priceArray(SB_trade,"SB trade ")
-    #df["DIF"] = df["SB_trade"] - df["FCP_VAL"]
-    #df.to_excel("output"+type.replace(" ","_")+".xlsx",engine="xlsxwriter")
+    df["SB_trade"] = priceArray(SB_trade,"SB trade ")
+    df["DIF"] = df["SB_trade"] - df["FCP_VAL"]
+    df.to_excel("output"+type.replace(" ","_")+".xlsx",engine="xlsxwriter")
     print("written in the files")
     return None
 
@@ -130,7 +130,7 @@ def priceArray(vector,label):
     return val
 
 def push_batch(tradePath,typePath,output):
-    url_push = "http://fr1cslbmto0013:8198/api/pricing/store/trade/"
+    url_push = "https://fr1pslcmf05:8770/api/pricing/store/trade/"
     type = typePath.get()
     if type == "SWAP":
         url_push = url_push + "ir-swap/batch"
