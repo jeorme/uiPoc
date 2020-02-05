@@ -16,23 +16,29 @@ url_fcc_marketSet = ""
 EURUSD = "Kplus1/Pairs/76584"
 
 
-FXVolDef = pd.DataFrame(columns=["name","pairId","smileType","basis","smileInterpolationVar","smileInterpolationMethod","smileExtrapolationMethod","tenorInterpolationVar","tenorInterpolationMethod","tenorExtrapolationMethod","comesticCurve","foreignCurve","premiumAdjusted","marketSet"])
+FXVolDef = pd.DataFrame(columns=["name","pairId","smileType","basis","smileInterpolationVar","smileInterpolationMethod","smileExtrapolationMethod","tenorInterpolationVar","tenorInterpolationMethod",
+                                 "tenorExtrapolationMethod","domesticCurve","foreignCurve","premiumAdjusted","marketSet"])
 
 ##hardcoded value db modif:
 premiumAdjusted = False
 smileExtrapolationMethod = "flat"
 tenorInterpolationVar = "totalVariance"
-
+tenorExtrapolationMethod = "flat"
+domesticCurve = "USDOIS"
+foreignCurve = "EUROIS"
+marketSet = "$id/DEFAULT"
 #binding
 #smileType = VolatCurves.smileType
 #basis= VolatCurves.basis
 #smileInterpolationMethod = VolatCurves.smileInterpolationMethod
+#tenorInterpolationVar = VolatCurves.TenorInteprolation
+
 
 #hardcoded defect FCP : PANDA-4096
 smileInterpolationVar = "volatility"
 
 
-FXVolDef[0] = ["Kplus1/VolatCurves/256380",EUR/USD,"strike","ACT/365.FIXED",smileInterpolationVar,"linear",smileExtrapolationMethod]
+FXVolDef[0] = ["Kplus1/VolatCurves/256380",EUR/USD,"strike","ACT/365.FIXED",smileInterpolationVar,"linear",smileExtrapolationMethod,tenorInterpolationVar,"linear",tenorExtrapolationMethod,domesticCurve,foreignCurve,premiumAdjusted,marketSet]
 #step 1 create the Fx vol
 url_fcp_name = ""
 
