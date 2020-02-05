@@ -3,16 +3,17 @@
     "currency": "EUR",
     "payingLeg": {
       "currency": "EUR",
-      "customFlows": null,
+      "customFlows": [],
       "notionalCalculation": {
         "amortizationCalculation": null,
         "currency": "EUR",
-        "exchange": "neither",
+        "exchange": "NEITHER",
         "fxFixingSchedule": null,
         "indexation": null,
         "notional": 1000000,
-        "notionalStructure": null,
-        "paymentSchedule": null
+        "notionalStructure": {},
+        "paymentSchedule": null,
+        "redemption": null
       },
       "rateCalculation": {
         "customFixedRateSchedules": [],
@@ -24,7 +25,7 @@
             "fxFixingSchedule": null,
             "margins": {
               "additiveMargin": 0,
-              "additiveMarginStructure": null,
+              "additiveMarginStructure": {},
               "clientMargin": 0,
               "multiplicativeMargin": 1
             },
@@ -43,7 +44,16 @@
             "rate": 0.0015,
             "rateStructure": {},
             "startDate": "2016-07-04",
-            "stubCalculation": null
+            "stubCalculation": {
+              "end": {
+                "date": null,
+                "type": "SHORT"
+              },
+              "start": {
+                "date": null,
+                "type": "NONE"
+              }
+            }
           }
         ],
         "floatingRateCalculations": []
@@ -52,16 +62,17 @@
     },
     "receivingLeg": {
       "currency": "EUR",
-      "customFlows": null,
+      "customFlows": [],
       "notionalCalculation": {
         "amortizationCalculation": null,
         "currency": "EUR",
-        "exchange": "neither",
+        "exchange": "NEITHER",
         "fxFixingSchedule": null,
         "indexation": null,
         "notional": 1000000,
         "notionalStructure": {},
-        "paymentSchedule": null
+        "paymentSchedule": null,
+        "redemption": null
       },
       "rateCalculation": {
         "customFixedRateSchedules": [],
@@ -70,6 +81,7 @@
         "floatingRateCalculations": [
           {
             "basis": "ACT/360",
+            "cap": null,
             "compoundingCalculation": null,
             "endDate": "2026-07-06",
             "fixingSchedule": {
@@ -83,9 +95,10 @@
               "gap": "-2BD",
               "isAdjusted": true,
               "isAdvance": true,
-              "useInterestPeriodForFwdRateDates": false
+              "useInterestPeriodForFwdRateDates": true
             },
             "floatingRate": "EUR6M",
+            "floor": null,
             "fxFixingSchedule": null,
             "margins": {
               "additiveMargin": 0,
@@ -106,11 +119,26 @@
               "isAdvance": false
             },
             "startDate": "2016-07-04",
-            "stubCalculation": null
+            "stubCalculation": {
+              "end": {
+                "date": null,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null,
+                "type": "SHORT",
+                "useBrokenPeriodForFwdRateDates": true
+              },
+              "start": {
+                "date": null,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null,
+                "type": "NONE",
+                "useBrokenPeriodForFwdRateDates": true
+              }
+            }
           }
         ]
       },
-      "scheduleModification": null
+      "scheduleModifications": []
     }
   },
   "info": {
@@ -123,10 +151,9 @@
     "counterparty": null,
     "csa": null,
     "group": "IRS",
+    "id": "Kplus1/SwapDeals/6210",
     "subType": "IRS (Fixed/Float)",
     "tradeDate": "2016-07-04",
-    "id": "SB6210Bis",
     "type": "IR Swap"
   }
 }
-

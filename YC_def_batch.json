@@ -1,0 +1,523 @@
+[
+  {
+    "id": "794821aaf47f4d8d886d42636bd9b753",
+    "name": "CHFABSLV",
+    "marketSet": "DEFAULT",
+    "currency": "CHF",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "d3cdfc39b75b4bafbf892d5b9ecad496",
+    "name": "CHFAMQLV",
+    "marketSet": "DEFAULT",
+    "currency": "CHF",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "e428a9c58b4b4e7e8f0a1d19a1cfc22d",
+    "name": "JPYSBSLV",
+    "marketSet": "DEFAULT",
+    "currency": "JPY",
+    "switchDates": [
+      0,
+      23
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "ece9c6c7c41f4055b98e02856c72f606",
+    "name": "GBPSBSLV",
+    "marketSet": "DEFAULT",
+    "currency": "GBP",
+    "switchDates": [
+      0,
+      25
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "56ca235ba8bf44e79e9446c8a903e41c",
+    "name": "JPYSBQLV",
+    "marketSet": "DEFAULT",
+    "currency": "JPY",
+    "switchDates": [
+      0,
+      23
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "ca8ab81fde20400e849df2e9f7bb0d0f",
+    "name": "GBPSBQLV",
+    "marketSet": "DEFAULT",
+    "currency": "GBP",
+    "switchDates": [
+      0,
+      25
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "0db610cbffe643bbbbe36a2675bac221",
+    "name": "EURABQEV",
+    "marketSet": "DEFAULT",
+    "currency": "EUR",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "d0a16fa186fe4c9e89b85b1e78ad61a4",
+    "name": "EURAMMEV",
+    "marketSet": "DEFAULT",
+    "currency": "EUR",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "dc78418e665f445e9603ff003879df95",
+    "name": "USDSBSLV",
+    "marketSet": "DEFAULT",
+    "currency": "USD",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "6e57b161bfe6494c9e4053b24502e175",
+    "name": "USDSBMLV",
+    "marketSet": "DEFAULT",
+    "currency": "USD",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "4a5a41debbee4350b8f03825ec7c7d61",
+    "name": "USDSBQLV",
+    "marketSet": "DEFAULT",
+    "currency": "USD",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "9ae72668be4443839d05e69f5782471b",
+    "name": "EURABSEV",
+    "marketSet": "DEFAULT",
+    "currency": "EUR",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "f97e56064b01482e9a73344b697af0f8",
+    "name": "EUROISV",
+    "marketSet": "DEFAULT",
+    "currency": "EUR",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "c351b0ec770a4693886864018eef3d3f",
+    "name": "USDOISV",
+    "marketSet": "DEFAULT",
+    "currency": "USD",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "ed7762d87deb44b88370ab97751f53fe",
+    "name": "UDISBMTV",
+    "marketSet": "DEFAULT",
+    "currency": "UDI",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "b046b4186b3c4438a5585e6a0e525baf",
+    "name": "JPYOISV",
+    "marketSet": "DEFAULT",
+    "currency": "JPY",
+    "switchDates": [
+      0,
+      23
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "cbc1dfa9408a4916afc340ebe2c7583c",
+    "name": "JPYXUSDV",
+    "marketSet": "DEFAULT",
+    "currency": "JPY",
+    "switchDates": [
+      0,
+      25
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "2b130715b7804de4a62330500391ba1d",
+    "name": "MXNOISV",
+    "marketSet": "DEFAULT",
+    "currency": "MXN",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "simple",
+    "zeroCouponBasis": "ACT/360"
+  },
+  {
+    "id": "1494bfb8f95d46919c24e7a36d04e79a",
+    "name": "HKDDISCV",
+    "marketSet": "DEFAULT",
+    "currency": "HKD",
+    "switchDates": [
+      0,
+      19
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "dfff6b6691ea460fb5c6b1723f19a367",
+    "name": "GBPOISV",
+    "marketSet": "DEFAULT",
+    "currency": "GBP",
+    "switchDates": [
+      0,
+      26
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "4ab783c8bc3d4577b115afc8e9e11b57",
+    "name": "CNYCNNDSV",
+    "marketSet": "DEFAULT",
+    "currency": "CNY",
+    "switchDates": [
+      0,
+      21
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "e9c0c12237ad42b59fe00b973146ddc1",
+    "name": "CLPGOVV",
+    "marketSet": "DEFAULT",
+    "currency": "CLP",
+    "switchDates": [
+      0,
+      9
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "e75545c293524b16973ded1468247069",
+    "name": "CHFOISV",
+    "marketSet": "DEFAULT",
+    "currency": "CHF",
+    "switchDates": [
+      0,
+      22
+    ],
+    "interpolationVariables": [
+      "zeroCouponRate",
+      "zeroCouponRate",
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "flat",
+      "linear",
+      "flat"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  },
+  {
+    "id": "bd2a23703db74fbe94e2c9f755eedb82",
+    "name": "CAD-LIBORV",
+    "marketSet": "DEFAULT",
+    "currency": "CAD",
+    "switchDates": [],
+    "interpolationVariables": [
+      "zeroCouponRate"
+    ],
+    "interpolationMethods": [
+      "linear"
+    ],
+    "zeroCouponFormula": "exponential",
+    "zeroCouponBasis": "ACT/365.FIXED"
+  }
+]

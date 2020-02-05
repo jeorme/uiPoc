@@ -1,0 +1,143 @@
+{
+  "description" : {
+    "currency" : "EUR",
+    "payingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "30/360",
+          "endDate" : "2026-07-06",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EMUU" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : false,
+            "isAdvance" : false
+          },
+          "rate" : 0.0015,
+          "rateStructure" : { },
+          "startDate" : "2016-07-04",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : null
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2026-07-06",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EURO_CITY" ],
+            "businessDayConvention" : "MODFOLLOWING",
+            "cutOff" : null,
+            "frequency" : "6M",
+            "gap" : "-2BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "EUR-S-2Y-A",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EMUU" ],
+            "businessDayConvention" : "MODFOLLOWING",
+            "frequency" : "6M",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-07-04",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            },
+            "start" : null
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "COMMON",
+    "businessUnit1" : "COMMON",
+    "businessUnit2" : "FCP_FQP",
+    "businessUnit3" : "FCP_FQP",
+    "businessUnit4" : "FCP_IR_CMS",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus1/SwapDeals/6190",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-04",
+    "trader" : null,
+    "type" : "IR Swap",
+    "versionDate" : "2016-07-05T01:33:24",
+    "versionId" : "2"
+  }
+}

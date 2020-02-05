@@ -1,0 +1,31 @@
+{
+    "description": {
+        "buySell": "BUY",
+        "domesticAmount": 1117294,
+        "domesticCurrency": "USD",
+        "foreignAmount": 1000000,
+        "foreignCurrency": "EUR",
+        "maturityDate": "2016-07-05",
+        "nonDeliverable": {
+            "currency": "USD",
+            "date": "2016-07-01",
+            "rate": 1.117044
+        }
+    },
+    "info": {
+        "businessUnit0": "D_REGION",
+        "businessUnit1": "D_ENTITY",
+        "businessUnit2": "MODEL-BRAN",
+        "businessUnit3": "MODEL-PORT",
+        "businessUnit4": "MODEL-FOLD",
+        "collateralCurrency": null,
+        "counterparty": "MODEL-CPTY",
+        "csa": null,
+        "group": "FW",
+        "id": "Kplus1/ForwardDeals/1356",
+        "subType": "Forward NDF",
+        "tradeDate": "2016-04-05",
+        "trader": "KPLUS",
+        "type": "FX Forward"
+    }
+}

@@ -1,0 +1,566 @@
+[
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1354",
+      "subType": "Forward",
+      "tradeDate": "2016-04-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117315.46,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-12",
+      "nonDeliverable": {
+        "currency": "EUR",
+        "date": "2016-07-08",
+        "rate": 1.143422
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1355",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-05",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-07-01",
+        "rate": 1.117044
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1356",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-04-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1102600000,
+      "domesticCurrency": "JPY",
+      "foreignAmount": 10000000,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-10-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1358",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117315.46,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-12",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-07-08",
+        "rate": 1.143422
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1359",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1117353,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-07-04",
+        "rate": 1.117603
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1360",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-06-06",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117315.46,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-12",
+      "nonDeliverable": {
+        "currency": "EUR",
+        "date": "2016-07-08",
+        "rate": 1.143422
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1362",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 994131390,
+      "domesticCurrency": "JPY",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "USD",
+      "maturityDate": "2016-08-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1363",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 6752105.47,
+      "domesticCurrency": "CNY",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-08-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1364",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117315.46,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-12",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1365",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 1117315.46,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-07",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-07-05",
+        "rate": 1.12
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1366",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-11",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1368",
+      "subType": "Forward",
+      "tradeDate": "2016-06-27",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 6766380.31,
+      "domesticCurrency": "CNY",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-10-10",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1369",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 783918,
+      "domesticCurrency": "GBP",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2017-07-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1370",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-05-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1371",
+      "subType": "Forward",
+      "tradeDate": "2016-04-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117353,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-06",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1372",
+      "subType": "Forward",
+      "tradeDate": "2016-06-06",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-07-11",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-07-07",
+        "rate": 1.143374425
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1373",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-06-27",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "BUY",
+      "domesticAmount": 1117294,
+      "domesticCurrency": "USD",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2016-05-05",
+      "nonDeliverable": {
+        "currency": "USD",
+        "date": "2016-05-03",
+        "rate": 1.117044
+      }
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1374",
+      "subType": "Forward NDF",
+      "tradeDate": "2016-04-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  },
+  {
+    "description": {
+      "buySell": "SELL",
+      "domesticAmount": 783118,
+      "domesticCurrency": "GBP",
+      "foreignAmount": 1000000,
+      "foreignCurrency": "EUR",
+      "maturityDate": "2017-01-05",
+      "nonDeliverable": null
+    },
+    "info": {
+      "businessUnit0": null,
+      "businessUnit1": null,
+      "businessUnit2": null,
+      "businessUnit3": null,
+      "businessUnit4": null,
+      "collateralCurrency": null,
+      "counterparty": null,
+      "csa": null,
+      "id": "Kplus1/ForwardDeals/1376",
+      "subType": "Forward",
+      "tradeDate": "2016-07-05",
+      "trader": null,
+      "versionId": "v0",
+      "versionDate": "2016-07-06T17:35:45",
+      "type": "FX Forward"
+    }
+  }
+]

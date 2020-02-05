@@ -1,0 +1,158 @@
+{
+  "info": {
+    "id": "Kplus1/SwapDeals/6270",
+    "versionId": "3",
+    "versionDate": "2016-07-05T12:13:15",
+    "group": "IRS",
+    "counterparty": null,
+    "businessUnit0": "COMMON",
+    "businessUnit1": "COMMON",
+    "businessUnit2": "FCP_FQP",
+    "businessUnit3": "FCP_FQP",
+    "businessUnit4": "FCP_IRSMXN",
+    "trader": null,
+    "collateralCurrency": null,
+    "csa": null,
+    "market": null
+  },
+  "description": {
+    "payingLeg": {
+      "currency": "MXN",
+      "rateCalculation": {
+        "fixedRateCalculations": [
+        ],
+        "floatingRateCalculations": [
+          {
+            "currency": null,
+            "basis": "ACT/360",
+            "startDate": "2011-06-17",
+            "endDate": "2021-06-03",
+            "paymentSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "MEXICOCITY"
+              ],
+              "businessDayConvention": "following",
+              "anniversaryDay": 0,
+              "gap": "2BD",
+              "generationMethod": "backward",
+              "isAdvance": false,
+              "frequency": "28BD"
+            },
+            "margins": {
+              "additiveMargin": 0.0,
+              "multiplicativeMargin": 1.0,
+              "clientMargin": 0.0,
+              "additiveMarginStructure": null
+            },
+            "fxFixingSchedule": null,
+            "floatingRate": "MX_TIIE28",
+            "fixingSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "MEXICOCITY"
+              ],
+              "businessDayConvention": "following",
+              "anniversaryDay": 0,
+              "gap": "0BD",
+              "isAdvance": true,
+              "frequency": "28BD",
+              "useInterestPeriodForFwdRateDates": true,
+              "cutOff": null
+            },
+            "compoundingCalculation": null,
+            "stubCalculation": {
+              "start": {
+                "type": "short",
+                "date": null,
+                "useBrokenPeriodForFwdRateDates": true,
+                "fixingFloatingRates": null,
+                "forwardFloatingRates": null
+              },
+              "end": null
+            }
+          }
+        ],
+        "customFixedRateSchedules": [
+        ],
+        "customFloatingRateSchedules": [
+        ]
+      },
+      "notionalCalculation": {
+        "notional": 1.43E7,
+        "exchange": "neither",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": null,
+        "fxFixingSchedule": null,
+        "indexation": null
+      },
+      "customFlows": null,
+      "scheduleModifications": [
+      ]
+    },
+    "receivingLeg": {
+      "currency": "MXN",
+      "rateCalculation": {
+        "fixedRateCalculations": [
+          {
+            "currency": null,
+            "basis": "ACT/360",
+            "startDate": "2011-06-17",
+            "endDate": "2021-06-03",
+            "paymentSchedule": {
+              "isAdjusted": true,
+              "businessCenters": [
+                "MEXICOCITY"
+              ],
+              "businessDayConvention": "following",
+              "anniversaryDay": 0,
+              "gap": "2BD",
+              "generationMethod": "backward",
+              "isAdvance": false,
+              "frequency": "28BD"
+            },
+            "margins": {
+              "additiveMargin": 0.0,
+              "multiplicativeMargin": 1.0,
+              "clientMargin": 0.0,
+              "additiveMarginStructure": null
+            },
+            "fxFixingSchedule": null,
+            "rate": 0.0725,
+            "rateStructure": null,
+            "stubCalculation": {
+              "start": {
+                "type": "short",
+                "date": null
+              },
+              "end": {
+                "type": "none",
+                "date": "2021-06-03"
+              }
+            }
+          }
+        ],
+        "floatingRateCalculations": [
+        ],
+        "customFixedRateSchedules": [
+        ],
+        "customFloatingRateSchedules": [
+        ]
+      },
+      "notionalCalculation": {
+        "notional": 1.43E7,
+        "exchange": "neither",
+        "amortizationCalculation": null,
+        "paymentSchedule": null,
+        "notionalStructure": null,
+        "fxFixingSchedule": null,
+        "indexation": null
+      },
+      "customFlows": null,
+      "scheduleModifications": [
+      ]
+    },
+    "currency": "MXN"
+  }
+}

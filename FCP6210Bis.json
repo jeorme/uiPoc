@@ -1,0 +1,130 @@
+
+{
+    "description": {
+        "currency": "EUR",
+        "payingLeg": {
+            "currency": "EUR",
+            "customFlows": null,
+            "notionalCalculation": {
+                "amortizationCalculation": null,
+                "exchange": "neither",
+                "fxFixingSchedule": null,
+                "indexation": null,
+                "notional": 1000000,
+                "notionalStructure": null,
+                "paymentSchedule": null
+            },
+            "rateCalculation": {
+                "customFixedRateSchedules": [],
+                "customFloatingRateSchedules": [],
+                "fixedRateCalculations": [
+                    {
+                        "basis": "30/360",
+                        "endDate": "2026-07-06",
+                        "fxFixingSchedule": null,
+                        "margins": {
+                            "additiveMargin": 0,
+                            "additiveMarginStructure": null,
+                            "clientMargin": 0,
+                            "multiplicativeMargin": 1
+                        },
+                        "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WEEKEND_ONLY"
+                            ],
+                            "businessDayConvention": "modfollowing",
+                            "frequency": "1Y",
+                            "gap": "2BD",
+                            "generationMethod": "forward",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                        "rate": 0.0015,
+                        "rateStructure": null,
+                        "startDate": "2016-07-04",
+                        "stubCalculation": null
+                    }
+                ],
+                "floatingRateCalculations": []
+            },
+            "scheduleModification": []
+        },
+        "receivingLeg": {
+            "currency": "EUR",
+            "customFlows": null,
+            "notionalCalculation": {
+                "amortizationCalculation": null,
+                "exchange": "neither",
+                "fxFixingSchedule": null,
+                "indexation": null,
+                "notional": 1000000,
+                "notionalStructure": null,
+                "paymentSchedule": null
+            },
+            "rateCalculation": {
+                "customFixedRateSchedules": [],
+                "customFloatingRateSchedules": [],
+                "fixedRateCalculations": [],
+                "floatingRateCalculations": [
+                    {
+                        "basis": "ACT/360",
+                        "compoundingCalculation": null,
+                        "endDate": "2026-07-06",
+                        "fixingSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WEEKEND_ONLY"
+                            ],
+                            "businessDayConvention": "modfollowing",
+                            "cutOff": null,
+                            "frequency": "6M",
+                            "gap": "-2BD",
+                            "isAdjusted": true,
+                            "isAdvance": true,
+                            "useInterestPeriodForFwdRateDates": true
+                        },
+                        "floatingRate": "EUR6M",
+                        "fxFixingSchedule": null,
+                        "margins": {
+                            "additiveMargin": 0,
+                            "additiveMarginStructure": null,
+                            "clientMargin": 0,
+                            "multiplicativeMargin": 1
+                        },
+                        "paymentSchedule": {
+                            "anniversaryDay": 0,
+                            "businessCenters": [
+                                "WEEKEND_ONLY"
+                            ],
+                            "businessDayConvention": "modfollowing",
+                            "frequency": "6M",
+                            "gap": "2BD",
+                            "generationMethod": "forward",
+                            "isAdjusted": true,
+                            "isAdvance": false
+                        },
+                        "startDate": "2016-07-04",
+                        "stubCalculation": null
+                    }
+                ]
+            },
+            "scheduleModification": []
+        }
+    },
+    "info": {
+        "businessUnit0": "America",
+        "businessUnit1": "NY",
+        "businessUnit2": "NY",
+        "businessUnit3": "NY_2",
+        "businessUnit4": "NY_IRD",
+        "collateralCurrency": null,
+        "counterparty": "Banco Popular",
+        "csa": null,
+        "group": "Group2",
+        "id": "testBis",
+        "market": null,
+        "trader": null
+    }
+}
+

@@ -1,0 +1,27 @@
+{
+    "description": {
+        "buySell": "SELL",
+        "domesticAmount": 783918,
+        "domesticCurrency": "GBP",
+        "foreignAmount": 1000000,
+        "foreignCurrency": "EUR",
+        "maturityDate": "2017-07-05",
+        "nonDeliverable": null
+    },
+    "info": {
+        "businessUnit0": "D_REGION",
+        "businessUnit1": "D_ENTITY",
+        "businessUnit2": "MODEL-BRAN",
+        "businessUnit3": "MODEL-PORT",
+        "businessUnit4": "MODEL-FOLD",
+        "collateralCurrency": null,
+        "counterparty": "MODEL-CPTY",
+        "csa": null,
+        "group": "FW",
+        "id": "Kplus1/ForwardDeals/1370",
+        "subType": "Forward",
+        "tradeDate": "2016-07-05",
+        "trader": "KPLUS",
+        "type": "FX Forward"
+    }
+}
