@@ -13,7 +13,7 @@
       "tradeDate": "2016-07-05",
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6112",
+      "id": "Kplus/SwapDeals/6112",
       "type": "IR Swap"
     },
     "description": {
@@ -164,10 +164,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6113",
+      "id": "Kplus/SwapDeals/6113",
       "type": "IR Swap"
     },
     "description": {
@@ -321,10 +321,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6114",
+      "id": "Kplus/SwapDeals/6114",
       "type": "IR Swap"
     },
     "description": {
@@ -490,10 +490,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6115",
+      "id": "Kplus/SwapDeals/6115",
       "type": "IR Swap"
     },
     "description": {
@@ -662,10 +662,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6116",
+      "id": "Kplus/SwapDeals/6116",
       "type": "IR Swap"
     },
     "description": {
@@ -816,10 +816,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6117",
+      "id": "Kplus/SwapDeals/6117",
       "type": "IR Swap"
     },
     "description": {
@@ -997,10 +997,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6118",
+      "id": "Kplus/SwapDeals/6118",
       "type": "IR Swap"
     },
     "description": {
@@ -1163,10 +1163,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6119",
+      "id": "Kplus/SwapDeals/6119",
       "type": "IR Swap"
     },
     "description": {
@@ -1317,10 +1317,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6120",
+      "id": "Kplus/SwapDeals/6120",
       "type": "IR Swap"
     },
     "description": {
@@ -1474,10 +1474,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6121",
+      "id": "Kplus/SwapDeals/6121",
       "type": "IR Swap"
     },
     "description": {
@@ -1631,10 +1631,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6122",
+      "id": "Kplus/SwapDeals/6122",
       "type": "IR Swap"
     },
     "description": {
@@ -1788,10 +1788,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6123",
+      "id": "Kplus/SwapDeals/6123",
       "type": "IR Swap"
     },
     "description": {
@@ -1945,10 +1945,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6127",
+      "id": "Kplus/SwapDeals/6127",
       "type": "IR Swap"
     },
     "description": {
@@ -2099,10 +2099,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6128",
+      "id": "Kplus/SwapDeals/6128",
       "type": "IR Swap"
     },
     "description": {
@@ -2253,10 +2253,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6129",
+      "id": "Kplus/SwapDeals/6129",
       "type": "IR Swap"
     },
     "description": {
@@ -2407,10 +2407,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6130",
+      "id": "Kplus/SwapDeals/6130",
       "type": "IR Swap"
     },
     "description": {
@@ -2561,10 +2561,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6132",
+      "id": "Kplus/SwapDeals/6132",
       "type": "IR Swap"
     },
     "description": {
@@ -2730,10 +2730,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6133",
+      "id": "Kplus/SwapDeals/6133",
       "type": "IR Swap"
     },
     "description": {
@@ -2884,10 +2884,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6149",
+      "id": "Kplus/SwapDeals/6149",
       "type": "IR Swap"
     },
     "description": {
@@ -3038,10 +3038,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6150",
+      "id": "Kplus/SwapDeals/6150",
       "type": "IR Swap"
     },
     "description": {
@@ -3192,10 +3192,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6151",
+      "id": "Kplus/SwapDeals/6151",
       "type": "IR Swap"
     },
     "description": {
@@ -3349,10 +3349,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6152",
+      "id": "Kplus/SwapDeals/6152",
       "type": "IR Swap"
     },
     "description": {
@@ -3506,10 +3506,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6153",
+      "id": "Kplus/SwapDeals/6153",
       "type": "IR Swap"
     },
     "description": {
@@ -3653,10 +3653,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6154",
+      "id": "Kplus/SwapDeals/6154",
       "type": "IR Swap"
     },
     "description": {
@@ -3807,10 +3807,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6155",
+      "id": "Kplus/SwapDeals/6155",
       "type": "IR Swap"
     },
     "description": {
@@ -3961,10 +3961,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6156",
+      "id": "Kplus/SwapDeals/6156",
       "type": "IR Swap"
     },
     "description": {
@@ -4115,10 +4115,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6157",
+      "id": "Kplus/SwapDeals/6157",
       "type": "IR Swap"
     },
     "description": {
@@ -4269,10 +4269,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6158",
+      "id": "Kplus/SwapDeals/6158",
       "type": "IR Swap"
     },
     "description": {
@@ -4423,10 +4423,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6159",
+      "id": "Kplus/SwapDeals/6159",
       "type": "IR Swap"
     },
     "description": {
@@ -4577,10 +4577,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6160",
+      "id": "Kplus/SwapDeals/6160",
       "type": "IR Swap"
     },
     "description": {
@@ -4731,10 +4731,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6161",
+      "id": "Kplus/SwapDeals/6161",
       "type": "IR Swap"
     },
     "description": {
@@ -4885,10 +4885,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6162",
+      "id": "Kplus/SwapDeals/6162",
       "type": "IR Swap"
     },
     "description": {
@@ -5039,10 +5039,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6163",
+      "id": "Kplus/SwapDeals/6163",
       "type": "IR Swap"
     },
     "description": {
@@ -5193,10 +5193,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6164",
+      "id": "Kplus/SwapDeals/6164",
       "type": "IR Swap"
     },
     "description": {
@@ -5347,10 +5347,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6165",
+      "id": "Kplus/SwapDeals/6165",
       "type": "IR Swap"
     },
     "description": {
@@ -5501,10 +5501,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6167",
+      "id": "Kplus/SwapDeals/6167",
       "type": "IR Swap"
     },
     "description": {
@@ -5658,10 +5658,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6169",
+      "id": "Kplus/SwapDeals/6169",
       "type": "IR Swap"
     },
     "description": {
@@ -5812,10 +5812,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6170",
+      "id": "Kplus/SwapDeals/6170",
       "type": "IR Swap"
     },
     "description": {
@@ -5980,10 +5980,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6172",
+      "id": "Kplus/SwapDeals/6172",
       "type": "IR Swap"
     },
     "description": {
@@ -6134,10 +6134,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6173",
+      "id": "Kplus/SwapDeals/6173",
       "type": "IR Swap"
     },
     "description": {
@@ -6288,10 +6288,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6174",
+      "id": "Kplus/SwapDeals/6174",
       "type": "IR Swap"
     },
     "description": {
@@ -6442,10 +6442,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6175",
+      "id": "Kplus/SwapDeals/6175",
       "type": "IR Swap"
     },
     "description": {
@@ -6596,10 +6596,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6176",
+      "id": "Kplus/SwapDeals/6176",
       "type": "IR Swap"
     },
     "description": {
@@ -6750,10 +6750,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6177",
+      "id": "Kplus/SwapDeals/6177",
       "type": "IR Swap"
     },
     "description": {
@@ -6904,10 +6904,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6178",
+      "id": "Kplus/SwapDeals/6178",
       "type": "IR Swap"
     },
     "description": {
@@ -7058,10 +7058,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6179",
+      "id": "Kplus/SwapDeals/6179",
       "type": "IR Swap"
     },
     "description": {
@@ -7212,10 +7212,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6180",
+      "id": "Kplus/SwapDeals/6180",
       "type": "IR Swap"
     },
     "description": {
@@ -7381,10 +7381,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6181",
+      "id": "Kplus/SwapDeals/6181",
       "type": "IR Swap"
     },
     "description": {
@@ -7535,10 +7535,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6182",
+      "id": "Kplus/SwapDeals/6182",
       "type": "IR Swap"
     },
     "description": {
@@ -7689,10 +7689,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6183",
+      "id": "Kplus/SwapDeals/6183",
       "type": "IR Swap"
     },
     "description": {
@@ -7843,10 +7843,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6184",
+      "id": "Kplus/SwapDeals/6184",
       "type": "IR Swap"
     },
     "description": {
@@ -7997,10 +7997,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6185",
+      "id": "Kplus/SwapDeals/6185",
       "type": "IR Swap"
     },
     "description": {
@@ -8151,10 +8151,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6186",
+      "id": "Kplus/SwapDeals/6186",
       "type": "IR Swap"
     },
     "description": {
@@ -8305,10 +8305,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6187",
+      "id": "Kplus/SwapDeals/6187",
       "type": "IR Swap"
     },
     "description": {
@@ -8459,10 +8459,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6188",
+      "id": "Kplus/SwapDeals/6188",
       "type": "IR Swap"
     },
     "description": {
@@ -8613,10 +8613,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6189",
+      "id": "Kplus/SwapDeals/6189",
       "type": "IR Swap"
     },
     "description": {
@@ -8782,10 +8782,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6190",
+      "id": "Kplus/SwapDeals/6190",
       "type": "IR Swap"
     },
     "description": {
@@ -8936,10 +8936,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6210",
+      "id": "Kplus/SwapDeals/6210",
       "type": "IR Swap"
     },
     "description": {
@@ -9090,10 +9090,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6211",
+      "id": "Kplus/SwapDeals/6211",
       "type": "IR Swap"
     },
     "description": {
@@ -9265,10 +9265,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6212",
+      "id": "Kplus/SwapDeals/6212",
       "type": "IR Swap"
     },
     "description": {
@@ -9419,10 +9419,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6213",
+      "id": "Kplus/SwapDeals/6213",
       "type": "IR Swap"
     },
     "description": {
@@ -9622,10 +9622,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6214",
+      "id": "Kplus/SwapDeals/6214",
       "type": "IR Swap"
     },
     "description": {
@@ -9776,10 +9776,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6215",
+      "id": "Kplus/SwapDeals/6215",
       "type": "IR Swap"
     },
     "description": {
@@ -9933,10 +9933,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6216",
+      "id": "Kplus/SwapDeals/6216",
       "type": "IR Swap"
     },
     "description": {
@@ -10090,10 +10090,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6217",
+      "id": "Kplus/SwapDeals/6217",
       "type": "IR Swap"
     },
     "description": {
@@ -10247,10 +10247,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6218",
+      "id": "Kplus/SwapDeals/6218",
       "type": "IR Swap"
     },
     "description": {
@@ -10404,10 +10404,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6222",
+      "id": "Kplus/SwapDeals/6222",
       "type": "IR Swap"
     },
     "description": {
@@ -10558,10 +10558,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6223",
+      "id": "Kplus/SwapDeals/6223",
       "type": "IR Swap"
     },
     "description": {
@@ -10712,10 +10712,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6224",
+      "id": "Kplus/SwapDeals/6224",
       "type": "IR Swap"
     },
     "description": {
@@ -10866,10 +10866,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6225",
+      "id": "Kplus/SwapDeals/6225",
       "type": "IR Swap"
     },
     "description": {
@@ -11020,10 +11020,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6226",
+      "id": "Kplus/SwapDeals/6226",
       "type": "IR Swap"
     },
     "description": {
@@ -11177,10 +11177,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6227",
+      "id": "Kplus/SwapDeals/6227",
       "type": "IR Swap"
     },
     "description": {
@@ -11331,10 +11331,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6233",
+      "id": "Kplus/SwapDeals/6233",
       "type": "IR Swap"
     },
     "description": {
@@ -11485,10 +11485,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6234",
+      "id": "Kplus/SwapDeals/6234",
       "type": "IR Swap"
     },
     "description": {
@@ -11639,10 +11639,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6235",
+      "id": "Kplus/SwapDeals/6235",
       "type": "IR Swap"
     },
     "description": {
@@ -11796,10 +11796,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6236",
+      "id": "Kplus/SwapDeals/6236",
       "type": "IR Swap"
     },
     "description": {
@@ -11953,10 +11953,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6237",
+      "id": "Kplus/SwapDeals/6237",
       "type": "IR Swap"
     },
     "description": {
@@ -12122,10 +12122,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6238",
+      "id": "Kplus/SwapDeals/6238",
       "type": "IR Swap"
     },
     "description": {
@@ -12276,10 +12276,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6239",
+      "id": "Kplus/SwapDeals/6239",
       "type": "IR Swap"
     },
     "description": {
@@ -12430,10 +12430,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6240",
+      "id": "Kplus/SwapDeals/6240",
       "type": "IR Swap"
     },
     "description": {
@@ -12584,10 +12584,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6241",
+      "id": "Kplus/SwapDeals/6241",
       "type": "IR Swap"
     },
     "description": {
@@ -12738,10 +12738,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6242",
+      "id": "Kplus/SwapDeals/6242",
       "type": "IR Swap"
     },
     "description": {
@@ -12892,10 +12892,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6243",
+      "id": "Kplus/SwapDeals/6243",
       "type": "IR Swap"
     },
     "description": {
@@ -13046,10 +13046,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6244",
+      "id": "Kplus/SwapDeals/6244",
       "type": "IR Swap"
     },
     "description": {
@@ -13200,10 +13200,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6245",
+      "id": "Kplus/SwapDeals/6245",
       "type": "IR Swap"
     },
     "description": {
@@ -13354,10 +13354,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6246",
+      "id": "Kplus/SwapDeals/6246",
       "type": "IR Swap"
     },
     "description": {
@@ -13508,10 +13508,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6247",
+      "id": "Kplus/SwapDeals/6247",
       "type": "IR Swap"
     },
     "description": {
@@ -13662,10 +13662,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6248",
+      "id": "Kplus/SwapDeals/6248",
       "type": "IR Swap"
     },
     "description": {
@@ -13816,10 +13816,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6249",
+      "id": "Kplus/SwapDeals/6249",
       "type": "IR Swap"
     },
     "description": {
@@ -13970,10 +13970,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6250",
+      "id": "Kplus/SwapDeals/6250",
       "type": "IR Swap"
     },
     "description": {
@@ -14124,10 +14124,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6251",
+      "id": "Kplus/SwapDeals/6251",
       "type": "IR Swap"
     },
     "description": {
@@ -14278,10 +14278,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6252",
+      "id": "Kplus/SwapDeals/6252",
       "type": "IR Swap"
     },
     "description": {
@@ -14432,10 +14432,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6253",
+      "id": "Kplus/SwapDeals/6253",
       "type": "IR Swap"
     },
     "description": {
@@ -14586,10 +14586,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6254",
+      "id": "Kplus/SwapDeals/6254",
       "type": "IR Swap"
     },
     "description": {
@@ -14740,10 +14740,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6256",
+      "id": "Kplus/SwapDeals/6256",
       "type": "IR Swap"
     },
     "description": {
@@ -14894,10 +14894,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6257",
+      "id": "Kplus/SwapDeals/6257",
       "type": "IR Swap"
     },
     "description": {
@@ -15048,10 +15048,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6258",
+      "id": "Kplus/SwapDeals/6258",
       "type": "IR Swap"
     },
     "description": {
@@ -15202,10 +15202,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6259",
+      "id": "Kplus/SwapDeals/6259",
       "type": "IR Swap"
     },
     "description": {
@@ -15356,10 +15356,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6260",
+      "id": "Kplus/SwapDeals/6260",
       "type": "IR Swap"
     },
     "description": {
@@ -15510,10 +15510,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6261",
+      "id": "Kplus/SwapDeals/6261",
       "type": "IR Swap"
     },
     "description": {
@@ -15664,10 +15664,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6262",
+      "id": "Kplus/SwapDeals/6262",
       "type": "IR Swap"
     },
     "description": {
@@ -15818,10 +15818,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6263",
+      "id": "Kplus/SwapDeals/6263",
       "type": "IR Swap"
     },
     "description": {
@@ -15972,10 +15972,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6264",
+      "id": "Kplus/SwapDeals/6264",
       "type": "IR Swap"
     },
     "description": {
@@ -16141,10 +16141,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6265",
+      "id": "Kplus/SwapDeals/6265",
       "type": "IR Swap"
     },
     "description": {
@@ -16295,10 +16295,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6266",
+      "id": "Kplus/SwapDeals/6266",
       "type": "IR Swap"
     },
     "description": {
@@ -16449,10 +16449,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6267",
+      "id": "Kplus/SwapDeals/6267",
       "type": "IR Swap"
     },
     "description": {
@@ -16603,10 +16603,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6268",
+      "id": "Kplus/SwapDeals/6268",
       "type": "IR Swap"
     },
     "description": {
@@ -16757,10 +16757,10 @@
       "businessUnit4": "IR_CMS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6269",
+      "id": "Kplus/SwapDeals/6269",
       "type": "IR Swap"
     },
     "description": {
@@ -16911,10 +16911,10 @@
       "businessUnit4": "Paris IRS",
       "csa": "CM-USD",
       "collateralCurrency": "USD",
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6278",
+      "id": "Kplus/SwapDeals/6278",
       "type": "IR Swap"
     },
     "description": {
@@ -17065,10 +17065,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6279",
+      "id": "Kplus/SwapDeals/6279",
       "type": "IR Swap"
     },
     "description": {
@@ -17219,10 +17219,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6280",
+      "id": "Kplus/SwapDeals/6280",
       "type": "IR Swap"
     },
     "description": {
@@ -17373,10 +17373,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6281",
+      "id": "Kplus/SwapDeals/6281",
       "type": "IR Swap"
     },
     "description": {
@@ -17527,10 +17527,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6282",
+      "id": "Kplus/SwapDeals/6282",
       "type": "IR Swap"
     },
     "description": {
@@ -17681,10 +17681,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6283",
+      "id": "Kplus/SwapDeals/6283",
       "type": "IR Swap"
     },
     "description": {
@@ -17820,10 +17820,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6284",
+      "id": "Kplus/SwapDeals/6284",
       "type": "IR Swap"
     },
     "description": {
@@ -17977,10 +17977,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6285",
+      "id": "Kplus/SwapDeals/6285",
       "type": "IR Swap"
     },
     "description": {
@@ -18146,10 +18146,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6286",
+      "id": "Kplus/SwapDeals/6286",
       "type": "IR Swap"
     },
     "description": {
@@ -18312,10 +18312,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6324",
+      "id": "Kplus/SwapDeals/6324",
       "type": "IR Swap"
     },
     "description": {
@@ -18521,10 +18521,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6326",
+      "id": "Kplus/SwapDeals/6326",
       "type": "IR Swap"
     },
     "description": {
@@ -18675,10 +18675,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6327",
+      "id": "Kplus/SwapDeals/6327",
       "type": "IR Swap"
     },
     "description": {
@@ -18829,10 +18829,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6328",
+      "id": "Kplus/SwapDeals/6328",
       "type": "IR Swap"
     },
     "description": {
@@ -18983,10 +18983,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6329",
+      "id": "Kplus/SwapDeals/6329",
       "type": "IR Swap"
     },
     "description": {
@@ -19137,10 +19137,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6330",
+      "id": "Kplus/SwapDeals/6330",
       "type": "IR Swap"
     },
     "description": {
@@ -19291,10 +19291,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6331",
+      "id": "Kplus/SwapDeals/6331",
       "type": "IR Swap"
     },
     "description": {
@@ -19445,10 +19445,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6332",
+      "id": "Kplus/SwapDeals/6332",
       "type": "IR Swap"
     },
     "description": {
@@ -19599,10 +19599,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6333",
+      "id": "Kplus/SwapDeals/6333",
       "type": "IR Swap"
     },
     "description": {
@@ -19753,10 +19753,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6334",
+      "id": "Kplus/SwapDeals/6334",
       "type": "IR Swap"
     },
     "description": {
@@ -19907,10 +19907,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6335",
+      "id": "Kplus/SwapDeals/6335",
       "type": "IR Swap"
     },
     "description": {
@@ -20061,10 +20061,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6336",
+      "id": "Kplus/SwapDeals/6336",
       "type": "IR Swap"
     },
     "description": {
@@ -20215,10 +20215,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6337",
+      "id": "Kplus/SwapDeals/6337",
       "type": "IR Swap"
     },
     "description": {
@@ -20369,10 +20369,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6338",
+      "id": "Kplus/SwapDeals/6338",
       "type": "IR Swap"
     },
     "description": {
@@ -20523,10 +20523,10 @@
       "businessUnit4": "Paris IRS",
       "csa": null,
       "collateralCurrency": null,
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6339",
+      "id": "Kplus/SwapDeals/6339",
       "type": "IR Swap"
     },
     "description": {
@@ -20677,10 +20677,10 @@
       "businessUnit4": "Paris IRS",
       "csa": "GC_ANNEX1",
       "collateralCurrency": "EUR",
-      "tradeDate": "2016-07-04",
+      
       "trader": null,
       "group": "IRS",
-      "id": "Kplus1/SwapDeals/6340",
+      "id": "Kplus/SwapDeals/6340",
       "type": "IR Swap"
     },
     "description": {
@@ -20834,7 +20834,7 @@
       "tradeDate": "2016-07-05",
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6352",
+      "id": "Kplus/SwapDeals/6352",
       "type": "IR Swap"
     },
     "description": {
@@ -21000,7 +21000,7 @@
       "tradeDate": "2016-07-05",
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6353",
+      "id": "Kplus/SwapDeals/6353",
       "type": "IR Swap"
     },
     "description": {
@@ -21166,7 +21166,7 @@
       "tradeDate": "2016-07-05",
       "trader": null,
       "group": "CIRS",
-      "id": "Kplus1/SwapDeals/6354",
+      "id": "Kplus/SwapDeals/6354",
       "type": "IR Swap"
     },
     "description": {
@@ -21339,5 +21339,1326 @@
       },
       "currency": "EUR"
     }
+  },
+  {
+  "description" : {
+    "currency" : "EUR",
+    "payingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-04-20",
+          "fixedAmount" : 50000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-04-19",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "MODFOLLOWING",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2026-04-20",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "MODFOLLOWING",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.009000000000000001,
+          "rateStructure" : { },
+          "startDate" : "2016-04-19",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : null
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-04-20",
+          "fixedAmount" : 50000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-04-19",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "MODFOLLOWING",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2026-04-20",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "MODFOLLOWING",
+            "cutOff" : null,
+            "frequency" : "6M",
+            "gap" : "-2BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "EUR6M",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "MODFOLLOWING",
+            "frequency" : "6M",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-04-19",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            },
+            "start" : null
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0": "America",
+    "businessUnit1": "NY",
+    "businessUnit2": "NY",
+    "businessUnit3": "NY_2",
+    "businessUnit4": "NY_IRD",
+    "collateralCurrency": null,
+    "counterparty": null,
+    "csa": null,
+    "group": "IRS",
+    "subType": "IRS (Fixed/Float)",
+    
+    "id": "Kplus/SwapDeals/6220",
+    "type": "IR Swap"
   }
+},
+  {
+  "description" : {
+    "currency" : "EUR",
+    "payingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2024-07-04",
+          "fixedAmount" : 0.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "linear"
+        },
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2026-07-06",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.004,
+          "rateStructure" : { },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : null
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2024-07-04",
+          "fixedAmount" : 0.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "linear"
+        },
+        "currency" : "EUR",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2026-07-06",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "6M",
+            "gap" : "-2BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "EUR6M",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "6M",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            },
+            "start" : null
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit2" : "Paris IRS",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6229",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-04",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "EUR",
+    "payingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-07-06",
+          "fixedAmount" : 30000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "END",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2026-07-06",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.004,
+          "rateStructure" : { },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : null
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-07-06",
+          "fixedAmount" : 30000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "END",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "WEEKEND_ONLY" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : {
+            "frequency" : "3M",
+            "method" : "weightedArithmeticAverage"
+          },
+          "endDate" : "2026-07-06",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "3M",
+            "gap" : "-2BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "EUR3M",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "WEEKEND_ONLY" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            },
+            "start" : null
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit2" : "Paris IRS",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6231",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-04",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.43E7,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2021-06-03",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.0725,
+          "rateStructure" : { },
+          "startDate" : "2011-06-17",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "type" : "SHORT"
+            }
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.43E7,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2021-06-03",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2011-06-17",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6270",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-05",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 5.0E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2018-06-25",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-06-28",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 5.0E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2018-06-25",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.050300000000000004,
+          "rateStructure" : { },
+          "startDate" : "2016-06-28",
+          "stubCalculation" : {
+            "end" : {
+              "date" : "2018-06-25",
+              "type" : "NONE"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "SHORT"
+            }
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6271",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-05",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 2.5E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2019-06-05",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.0508,
+          "rateStructure" : { },
+          "startDate" : "2016-06-09",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "type" : "SHORT"
+            }
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 2.5E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2019-06-05",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-06-09",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6272",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2017-07-05",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.83785E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2019-09-27",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 7.0E-5,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-18",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.83785E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2019-09-27",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 1.4999999999999999E-5,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-18",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6273",
+    "subType" : "Basis IRS",
+    "tradeDate" : "2016-07-05",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+},
+  {
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 3.5E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2016-05-20",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 1.4E-4,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-21",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 3.5E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2016-05-20",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 5.0E-6,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-21",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "Europe",
+    "businessUnit1" : "Paris",
+    "businessUnit2" : "Paris IRD",
+    "businessUnit3" : "Paris Swaps",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus/SwapDeals/6274",
+    "subType" : "Basis IRS",
+    "tradeDate" : "2016-07-05",
+    "trade" : null,
+    "type" : "IR Swap"
+  }
+}
 ]

@@ -1,0 +1,196 @@
+{
+  "description" : {
+    "currency" : "EUR",
+    "payingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-07-06",
+          "fixedAmount" : 30000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "END",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "EMUU" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "endDate" : "2026-07-06",
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EMUU" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "rate" : 0.004,
+          "rateStructure" : { },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : null
+          }
+        } ],
+        "floatingRateCalculations" : [ ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "EUR",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : {
+          "basis" : "",
+          "endDate" : "2026-07-06",
+          "fixedAmount" : 30000.0,
+          "fixedRate" : 0.0,
+          "frequency" : "1Y",
+          "remainingAmount" : 0.0,
+          "startDate" : "2016-07-06",
+          "type" : "fixedAmount"
+        },
+        "currency" : "EUR",
+        "exchange" : "END",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1000000.0,
+        "notionalStructure" : { },
+        "paymentSchedule" : {
+          "anniversaryDay" : 0,
+          "businessCenters" : [ "EMUU" ],
+          "businessDayConvention" : "NONE",
+          "gap" : "2BD",
+          "generationMethod" : "FORWARD",
+          "isAdjusted" : true,
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "type" : "SHORT"
+            },
+            "start" : {
+              "date" : null,
+              "type" : "NONE"
+            }
+          }
+        },
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : {
+            "frequency" : "3M",
+            "method" : "weightedArithmeticAverage"
+          },
+          "endDate" : "2026-07-06",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EURO_CITY" ],
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "3M",
+            "gap" : "-2BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "FCP_EUR3M",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 0.0,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : [ "EMUU" ],
+            "businessDayConvention" : "NONE",
+            "frequency" : "1Y",
+            "gap" : "2BD",
+            "generationMethod" : "FORWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2016-07-06",
+          "stubCalculation" : {
+            "end" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            },
+            "start" : null
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "COMMON",
+    "businessUnit1" : "COMMON",
+    "businessUnit2" : "FCP_FQP",
+    "businessUnit3" : "FCP_FQP",
+    "businessUnit4" : "FCP_IRS",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus1/SwapDeals/6231",
+    "subType" : "IRS (Fixed/Float)",
+    "tradeDate" : "2016-07-04",
+    "trader" : "KPLUS",
+    "type" : "IR Swap"
+  }
+}

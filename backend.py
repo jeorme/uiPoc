@@ -16,12 +16,11 @@ resultHandlerConfigId=None
 resultHandlerId="Collector"
 
 
-notPresent = ['Kplus1/SwapDeals/6219','Kplus1/SwapDeals/6220','Kplus1/SwapDeals/6228',
-              'Kplus1/SwapDeals/6229','Kplus1/SwapDeals/6231','Kplus1/SwapDeals/6232',
-              'Kplus1/SwapDeals/6237','Kplus1/SwapDeals/6270','Kplus1/SwapDeals/6271',
-              'Kplus1/SwapDeals/6272','Kplus1/SwapDeals/6273','Kplus1/SwapDeals/6274',
-              'Kplus1/SwapDeals/6275','Kplus1/SwapDeals/6276','Kplus1/SwapDeals/6277',
-              'Kplus1/SwapDeals/6204','Kplus1/SwapDeals/6206','Kplus1/SwapDeals/6354']
+notPresent = ['Kplus/SwapDeals/6219', 'Kplus/SwapDeals/6228',
+              'Kplus/SwapDeals/6232',
+              'Kplus/SwapDeals/6237',
+              'Kplus/SwapDeals/6275','Kplus/SwapDeals/6276','Kplus/SwapDeals/6277',
+              'Kplus/SwapDeals/6204','Kplus/SwapDeals/6206','Kplus/SwapDeals/6354']
 
 scenarioContexts =[
 
@@ -89,10 +88,11 @@ def pushTrade(tradePath, typePath, output):
 def priceBatch():
     df = pd.read_excel("dictionnaryIRS.xlsx")
     fcp_Trade = df["FCP"].values
-    SB_trade =df["Kenibo427"].apply(lambda x : np.nan  if x is np.nan else "Kplus1/SwapDeals/"+str(x).replace(".0","")).values
+    SB_trade =df["Kenibo427"].apply(lambda x : np.nan  if x is np.nan else "Kplus/SwapDeals/"+str(x).replace(".0","")).values
     df["FCP_VAL"] = priceArray(fcp_Trade,"FCP trade ")
     push_batch()
     df["SB_trade"] = priceArray(SB_trade,"SB trade ")
+    df["diff"] = df["SB_trade"] - df["FCP_VAL"]
     df.to_excel("output.xlsx",engine="xlsxwriter")
     print("np written in the files")
     return None
@@ -100,14 +100,17 @@ def priceBatch():
 def priceArray(vector,label):
     val = []
     for id in vector:
-        if id is np.nan or id == "Kplus1/SwapDeals/nan" or id in notPresent:
+        if id is np.nan or id == "Kplus/SwapDeals/nan" or id in notPresent:
             val.append(np.nan)
         else:
             perimeter = {"trade": {"ids": [id]}}
             result = unitary(aod="2016-07-04", referenceCurrency="$id/USD", perimeter=perimeter,
                          scenarioContexts=scenarioContexts)
-            val.append(result[id]["scenarios"][0]["entries"][0]["measures"]["NPV"])
-            print(label + id + " has been priced")
+            if len(result) != 0:
+                val.append(result[id]["scenarios"][0]["entries"][0]["measures"]["NPV"])
+                print(label + id + " has been priced")
+            else:
+                 val.append(np.nan)
     return val
 
 def push_batch():

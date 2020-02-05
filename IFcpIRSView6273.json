@@ -1,0 +1,157 @@
+{
+  "description" : {
+    "currency" : "MXN",
+    "payingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.83785E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2019-09-27",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 7.0E-5,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-18",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    },
+    "receivingLeg" : {
+      "currency" : "MXN",
+      "customFlows" : [ ],
+      "notionalCalculation" : {
+        "amortizationCalculation" : null,
+        "currency" : "MXN",
+        "exchange" : "NEITHER",
+        "fxFixingSchedule" : null,
+        "indexation" : null,
+        "notional" : 1.83785E8,
+        "notionalStructure" : { },
+        "paymentSchedule" : null,
+        "redemption" : null
+      },
+      "rateCalculation" : {
+        "customFixedRateSchedules" : [ ],
+        "customFloatingRateSchedules" : [ ],
+        "fixedRateCalculations" : [ ],
+        "floatingRateCalculations" : [ {
+          "basis" : "ACT/360",
+          "cap" : null,
+          "compoundingCalculation" : null,
+          "endDate" : "2019-09-27",
+          "fixingSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "cutOff" : null,
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "isAdjusted" : true,
+            "isAdvance" : true,
+            "useInterestPeriodForFwdRateDates" : true
+          },
+          "floatingRate" : "MX_TIIE28",
+          "floor" : null,
+          "fxFixingSchedule" : null,
+          "margins" : {
+            "additiveMargin" : 1.4999999999999999E-5,
+            "additiveMarginStructure" : { },
+            "clientMargin" : 0.0,
+            "multiplicativeMargin" : 1.0
+          },
+          "paymentSchedule" : {
+            "anniversaryDay" : 0,
+            "businessCenters" : null,
+            "businessDayConvention" : "NONE",
+            "frequency" : "28BD",
+            "gap" : "0BD",
+            "generationMethod" : "BACKWARD",
+            "isAdjusted" : true,
+            "isAdvance" : false
+          },
+          "startDate" : "2015-05-18",
+          "stubCalculation" : {
+            "end" : null,
+            "start" : {
+              "date" : null,
+              "fixingFloatingRates" : null,
+              "forwardFloatingRates" : null,
+              "type" : "SHORT",
+              "useBrokenPeriodForFwdRateDates" : true
+            }
+          }
+        } ]
+      },
+      "scheduleModifications" : [ ]
+    }
+  },
+  "info" : {
+    "businessUnit0" : "COMMON",
+    "businessUnit1" : "COMMON",
+    "businessUnit2" : "FCP_FQP",
+    "businessUnit3" : "FCP_FQP",
+    "businessUnit4" : "FCP_IRSMXN",
+    "collateralCurrency" : null,
+    "counterparty" : null,
+    "csa" : null,
+    "group" : "IRS",
+    "id" : "Kplus1/SwapDeals/6273",
+    "subType" : "Basis IRS",
+    "tradeDate" : "2016-07-05",
+    "trader" : "KPLUS",
+    "type" : "IR Swap"
+  }
+}

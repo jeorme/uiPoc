@@ -61,6 +61,12 @@ def post(url, json):
     reponse.close()
     return val
 
+def openJson(fileName):
+    with open(fileName, "r") as write_file:
+        data = json.load(write_file)
+        write_file.close()
+    return data
+
 # use the API unitary price to price a FXO with the corresponding measures
 # we use the input defined by FCP and use the FCP pricer
 # since the API is not defined we use the generic pricer and we set by default the non used parameter
